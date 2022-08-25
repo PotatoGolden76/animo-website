@@ -20,6 +20,14 @@ root.render(
     <Routes>
       <Route path="/" element={<App />} />
       <Route path="expenses" element={<Expenses />} />
+      <Route
+      path="*"
+      element={
+        <main style={{ padding: "1rem" }}>
+          <p>404: There's nothing here!</p>
+        </main>
+      }
+    />
     </Routes>
   </BrowserRouter>
 );
