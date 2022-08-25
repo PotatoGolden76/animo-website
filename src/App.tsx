@@ -1,8 +1,9 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import logo from './logo.svg';
-import './App.css';
+import './styles/App.scss';
 
-function App() {
+export default function App() {
   return (
     <div className="App">
       <header className="App-header">
@@ -10,6 +11,17 @@ function App() {
         <p>
           Edit <code>src/App.tsx</code> and save to reload.
         </p>
+
+        <nav
+          style={{
+            borderBottom: "solid 1px",
+            paddingBottom: "1rem",
+          }}
+        >
+          <Link to="/invoices">Invoices</Link> |{" "}
+          <Link to="/expenses">Expenses</Link>
+        </nav>
+
         <a
           className="App-link"
           href="https://reactjs.org"
@@ -23,4 +35,3 @@ function App() {
   );
 }
 
-export default App;
