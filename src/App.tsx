@@ -1,36 +1,22 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import logo from './logo.svg';
-import './styles/App.scss';
+import logo from './assets/logo.svg';
+import PowerCard from './components/powerCard';
+import styles from './styles/homepage.module.scss';
+import classNames from 'classnames';
 
 export default function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <h1 className="text-3xl font-bold underline">
-          Hello world!
-        </h1>
+    <div className={classNames("container mx-auto py-5 px-4 flex gap-8 flex-wrap justify-center items-center", styles.homeContainer)}>
 
-        <nav
-          style={{
-            borderBottom: "solid 1px",
-            paddingBottom: "1rem",
-          }}
-        >
-          <Link to="/invoices">Invoices</Link> |{" "}
-          <Link to="/expenses">Expenses</Link>
-        </nav>
+      <PowerCard text="About" destination="/about" />
+      <PowerCard text="Projects" destination="/projects"/>
+      <PowerCard text="Experience" destination="/experience"/>
+      <PowerCard text="Contact" destination="/contact"/>
 
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      {/* <Link to="/invoices">Invoices</Link> |{" "}
+          <Link to="/expenses">Expenses</Link>*/}
+
     </div>
   );
 }

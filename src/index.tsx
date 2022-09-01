@@ -3,32 +3,26 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import {
-  BrowserRouter,
   Routes,
-  Route
+  Route,
+  HashRouter
 } from 'react-router-dom';
 
 
 import Expenses from "./routes/expenses";
+import NotFound from './routes/notfound';
 
 const root = ReactDOM.createRoot(
   document.getElementById('root') as HTMLElement
 );
 root.render(
-  <BrowserRouter>
+  <HashRouter>
     <Routes>
       <Route path="/" element={<App />} />
-      <Route path="expenses" element={<Expenses />} />
-      <Route
-      path="*"
-      element={
-        <main style={{ padding: "1rem" }}>
-          <p>404: There's nothing here!</p>
-        </main>
-      }
-    />
+      <Route path="expenses" element={<NotFound />} />
+      <Route path="*" element={<NotFound />} />
     </Routes>
-  </BrowserRouter>
+  </HashRouter>
 );
 
 reportWebVitals();
