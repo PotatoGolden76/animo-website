@@ -7,7 +7,7 @@ import classNames from 'classnames';
 
 export default function App() {
   return (
-    <div className={classNames("container mx-auto py-5 px-4 flex gap-8 flex-wrap justify-center items-center", styles.homeContainer)}>
+    <div className={classNames("container mx-auto py-5 px-4 flex gap-8 flex-wrap flex-col justify-center items-center", styles.homeContainer)}>
 
       <PowerCard text="About" destination="/about" />
       <PowerCard text="Projects" destination="/projects"/>
