@@ -1,3 +1,30 @@
-$home-background: #0f172a;
-$home-background-light: #1e293b;
-$home-light-up: #22bbff;
+$background: #fff;
+$foreground: #1e293b;
+
+$red: #F19A9C;
+$orange: #FFC29F;
+$yellow: #FFFAAE;
+$green: #CDECAD;
+$blue: #A0CDED;
+$violet: #AF8FC1;
+
+.red {
+    background-color: $red;
+}
+.orange {
+    background-color: $orange;
+}
+.yellow {
+    background-color: $yellow;
+}
+.green {
+    background-color: $green;
+}
+
+.blue {
+    background-color: $blue;
+}
+
+.violet {
+    background-color: $violet;
+}

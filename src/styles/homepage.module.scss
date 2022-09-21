@@ -1,19 +1,27 @@
 @import "./_variables.scss";
 
 :root {
-    background-color: $home-background;
+    background-color: $background;
 }
 
 .homeContainer {
     position: relative;
     top: 0;
     left: 0;
-    height: 100vh;
+    min-height: 100vh;
     z-index: 10;
+
+    & > h1 {
+        width: 100%;
+        margin: 20px;
+        text-align: center;
+        font-size: 4rem;
+        font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
 }
 
 
-$transition-mode: 0.3s ease-in-out;
+$transition-mode: 0.15s ease-in-out;
 .powerCard {
     transition: all $transition-mode;
 
@@ -21,23 +29,21 @@ $transition-mode: 0.3s ease-in-out;
     left: 0;
     top: 0;
 
-    height: 100px;
-    width: 200px;
-
     text-align: center;
     font-weight: 700;
-    color: $home-background-light;
-    background-color: $home-background;
+    color: $foreground;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 
     & .powerTitle {
-        position: relative;
-        top: 40%;
-        transform: translateY(-50%);
         font-size: 2rem;
     }
 
     border-width: 3px;
-    border-color: $home-background-light;
+    border-color: $foreground;
     border-radius: 5px;
 
     &::before {
@@ -52,9 +58,8 @@ $transition-mode: 0.3s ease-in-out;
 
         z-index: -1;
 
-        background-color: $home-background-light;
-        background-image: radial-gradient($home-background 10%, transparent 11%),
-            radial-gradient($home-light-up 10%, transparent 11%);
+        background-color: black;
+        background-image: radial-gradient($background 10%, transparent 11%);
         background-size: 20px 20px;
         background-position: 0 0, 30px 30px;
         background-repeat: repeat;
@@ -63,9 +68,6 @@ $transition-mode: 0.3s ease-in-out;
     }
 
     &:hover {
-        border-color: $home-light-up;
-        color: $home-light-up;
-        // transform: translate(-10px, -10px);
         left: -15px;
         top: -15px;
 

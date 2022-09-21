@@ -8,8 +8,6 @@ import {
   HashRouter
 } from 'react-router-dom';
 
-
-import Expenses from "./routes/expenses";
 import NotFound from './routes/notfound';
 
 const root = ReactDOM.createRoot(
@@ -19,7 +17,6 @@ root.render(
   <HashRouter>
     <Routes>
       <Route path="/" element={<App />} />
-      <Route path="expenses" element={<NotFound />} />
       <Route path="*" element={<NotFound />} />
     </Routes>
   </HashRouter>
