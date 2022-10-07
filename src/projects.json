@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Visaria Wiki",
+        "color": "red",
+        "icon": "faBook",
+        "link": "https://potatogolden76.github.io/visaria"
+    },
+    {
+        "name": "Pythonic Chess",
+        "color": "green",
+        "icon": "faChess",
+        "link": "https://github.com/PotatoGolden76/pythonic-chess"
+    }
+]

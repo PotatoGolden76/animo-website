@@ -3,10 +3,10 @@ import styles from './styles/homepage.module.scss';
 import classNames from 'classnames';
 
 import {
-  faBacterium,
+  faUserSecret,
   faEnvelope,
   faStar,
-  faFolderTree, faShrimp
+  faFolderTree
 } from '@fortawesome/free-solid-svg-icons'
 import { TypeAnimation } from 'react-type-animation';
 
@@ -22,7 +22,7 @@ export default function App() {
         repeat={0}
         style={{ fontSize: '4rem' }}
       />
-      <PowerCard text="About" destination="/about" color="red" icon={faBacterium} />
+      <PowerCard text="About" destination="/about" color="red" icon={faUserSecret} />
       <PowerCard text="Projects" destination="/projects" color="orange" icon={faFolderTree} />
       <PowerCard text="Resume" destination="/resume" color="yellow" icon={faStar} />
       <PowerCard text="Contact" destination="/contact" color="green" icon={faEnvelope} />
