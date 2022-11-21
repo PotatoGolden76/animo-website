@@ -27,6 +27,7 @@
 
     & > .iconContainer {
         display: flex;
+        flex-direction: column;
         align-items: center;
         justify-content: center;
         width: 100%;
@@ -49,7 +50,7 @@
         font-family:Verdana, Geneva, Tahoma, sans-serif;
         
         background: rgb(100,236,218);
-        background: linear-gradient(0deg, rgba(100,236,218,1) 0%, rgba(160,205,237,1) 100%);
+        background: linear-gradient(0deg, #e2d6c7 0%, rgba(160,205,237,1) 100%);
 
         display: flex;
         flex-direction: column;
@@ -64,23 +65,36 @@
             transform: translateY(-90%);
         }
 
-        & .cardTitle {
-            font-size: 1.5rem;
-            font-weight: 600;
-            margin: 0;
-            text-align: center;
-        }
-
-        & .cardSubtitle {
-            font-size: 1rem;
-            margin: 0;
-            text-align: center;
-        }
     }
 
     &:hover {
         top: -10px;
         // left: -5px;
         // box-shadow: 0 10px 10px $blue;
+    }
+
+    
+    & .cardTitle {
+        font-size: 1.5rem;
+        font-weight: 600;
+        margin: 0;
+        text-align: center;
+    }
+
+    & .cardSubtitle {
+        font-size: 1rem;
+        margin: 0;
+        text-align: center;
+    }
+}
+
+.fullBg {
+    & .cardBody { 
+        height: 100%;
+        margin: 0;
+    }
+
+    & .iconContainer {
+        display: none;
     }
 }

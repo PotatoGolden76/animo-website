@@ -18,7 +18,12 @@ export default function Header(props: any) {
                 <div className={styles.button}>Despre Noi</div>
                 <div className={styles.button}>Echipa</div>
                 <div className={styles.button}>Articole</div>
+                <div className={styles.button}>Testimoniale</div>
                 <div className={styles.button}>Contact</div>
+                {
+                    
+                    //TODO: contact form
+                }
             </nav>
         </div>
     );

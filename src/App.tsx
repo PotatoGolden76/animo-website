@@ -9,7 +9,8 @@ import wave from './assets/main-waves.svg';
 import wave1 from './assets/wave1.svg';
 import wave2 from './assets/wave2.svg';
 import wave3 from './assets/wave3.svg';
-import { faBookOpen, faPeopleGroup, faNewspaper } from '@fortawesome/free-solid-svg-icons'
+import { faBookOpen, faPeopleGroup, faNewspaper, faMessage } from '@fortawesome/free-solid-svg-icons'
+import Footer from './components/footer';
 
 export default function App() {
   const containerTStyle = "container";
@@ -32,12 +33,16 @@ export default function App() {
 
       <div className={classNames(containerTStyle, styles.homeContainer)}>
         <div className={styles.cardContainer}>
-          <PowerCard text="Despre Noi" icon={faBookOpen} wave={wave1} destination={"/about"}/>
-          <PowerCard text="Echipa" icon={faPeopleGroup} wave={wave2} destination={"/team"}/>
-          <PowerCard text="Articole" icon={faNewspaper} wave={wave3} destination={"/articles"}/>
-        </div>
+          <PowerCard text="Despre Noi" icon={faBookOpen} wave={wave1} destination={"/about"} />
+          <PowerCard text="Echipa" icon={faPeopleGroup} wave={wave2} destination={"/team"} />
+          <PowerCard text="Articole" icon={faNewspaper} wave={wave3} destination={"/articles"} />
+          <PowerCard text="Testimoniale" icon={faMessage} wave={wave1} destination={"/testimonials"} />
 
+          <PowerCard text="Contacteaza-ne" destination={"/testimonials"} width={"87%"} height={"100px"} fullBg/>
+        </div>
+        
       </div>
+      <Footer />
     </>
   );
 }

@@ -1,0 +1,56 @@
+@import "./_variables.scss";
+
+.infoContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: auto;
+    margin-bottom: 5vh;
+    padding: 0 3rem;
+    & h1 {
+        
+        font-size: 1.75rem;
+        font-weight: 700;
+        margin: 1rem;
+        font-family: 'Times New Roman', Times, serif;
+        text-decoration: underline;
+        text-align: center;
+        width: 100%;
+    }
+
+    & .imageContainer {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+        flex-wrap: wrap;
+        & .picCard {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin: 1rem;
+            justify-content: center;
+
+            & h2 {
+                font-size: 1.5rem;
+                font-weight: 700;
+                margin: 0.5rem;
+                font-family: Times, serif;
+                text-align: center;
+                width: 100%;
+            }
+            & img {
+                height: 150px;
+                width: 150px;
+                border-radius: 40%;
+            }
+        }
+    }
+}
+
+hr {
+    width: 80%;
+    margin: 0 auto;
+    border-top: 1px solid $blue;
+}
