@@ -22,9 +22,9 @@ export default function App() {
       <div className={classNames(styles.banner, bannerTStyle)}>
         <section className={styles.bannerContent}>
           <img src={logo} className={styles.bannerImage} alt="Logo" />
-          <h1 className={styles.bannerTitle}>Centrul Animo<h2 className={styles.bannerSubtitle}>
+          <h1 className={styles.bannerTitle}>Centrul Animo<div className={styles.bannerSubtitle}>
             Psihologi buni, aproape de tine
-          </h2></h1>
+          </div></h1>
 
         </section>
         <img className={styles.waves} src={wave} alt="" />
@@ -33,14 +33,14 @@ export default function App() {
 
       <div className={classNames(containerTStyle, styles.homeContainer)}>
         <div className={styles.cardContainer}>
-          <PowerCard text="Despre Noi" icon={faBookOpen} wave={wave1} destination={"/about"} />
-          <PowerCard text="Echipa" icon={faPeopleGroup} wave={wave2} destination={"/team"} />
-          <PowerCard text="Articole" icon={faNewspaper} wave={wave3} destination={"/articles"} />
-          <PowerCard text="Testimoniale" icon={faMessage} wave={wave1} destination={"/testimonials"} />
+          <PowerCard text="Despre Noi" icon={faBookOpen} wave={wave1} height={"80%"} width={"80%"} destination={"/about"} />
+          <PowerCard text="Echipa" icon={faPeopleGroup} wave={wave2} height={"80%"} width={"80%"} destination={"/team"} />
+          <PowerCard text="Articole" icon={faNewspaper} wave={wave3} height={"80%"} width={"80%"} destination={"/articles"} />
+          <PowerCard text="Testimoniale" icon={faMessage} wave={wave1} height={"80%"} width={"80%"} destination={"/testimonials"} />
 
-          <PowerCard text="Contacteaza-ne" destination={"/testimonials"} width={"87%"} height={"100px"} fullBg/>
+          <PowerCard text="Contacteaza-ne" destination={"/testimonials"} height={"100%"} width={"80%"} fullBg className={styles.contact} />
         </div>
-        
+
       </div>
       <Footer />
     </>

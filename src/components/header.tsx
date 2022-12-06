@@ -15,15 +15,11 @@ export default function Header(props: any) {
             </section>
 
             <nav className={classNames(sectionTStyle)}>
-                <div className={styles.button}>Despre Noi</div>
-                <div className={styles.button}>Echipa</div>
-                <div className={styles.button}>Articole</div>
-                <div className={styles.button}>Testimoniale</div>
-                <div className={styles.button}>Contact</div>
-                {
-                    
-                    //TODO: contact form
-                }
+                <div className={styles.button}><Link to={"/about"}>Despre Noi</Link></div>
+                <div className={styles.button}><Link to={"/team"}>Echipa</Link></div>
+                <div className={styles.button}><Link to={"/articles"}>Articole</Link></div>
+                <div className={styles.button}><Link to={"/testimonials"}>Testimoniale</Link></div>
+                <div className={styles.button}><Link to={"/contact"}>Contact</Link></div>
             </nav>
         </div>
     );

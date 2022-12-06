@@ -10,6 +10,7 @@ export default function Team() {
   const containerTStyle = "container";
   //TODO: add team member page
   //TODO: add navigation
+  //TODO: add pictures
   return (
     <>
       <Header />

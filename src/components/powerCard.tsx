@@ -15,7 +15,7 @@ export default function PowerCard(props: any) {
   }, [nav]);
 
   return (
-    <div className={classNames(styles.card, props.fullBg ? styles.fullBg : "")} onClick={handle} style={{ height: props.height || "200px", width: props.width || "200px" }}>
+    <div className={classNames(styles.card, props.fullBg ? styles.fullBg : "", props.className)} onClick={handle} style={{ height: props.height || "200px", width: props.width || "200px" }}>
       <div className={styles.iconContainer}>
         {props.icon ? <FontAwesomeIcon icon={props.icon} size="xl" /> : null}
         {props.image ? <img src={props.image} alt="" /> : null}

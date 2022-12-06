@@ -11,6 +11,7 @@ import {
 import NotFound from './routes/notfound';
 import About from './routes/about';
 import Team from './routes/team';
+import Articles from './routes/articles';
 
 const root = ReactDOM.createRoot(
   document.getElementById('root') as HTMLElement
@@ -23,9 +24,9 @@ root.render(
       <Route path="/" element={<App />} />
       <Route path="/about" element={<About />} />
       <Route path="/team" element={<Team />} />
-      <Route path="/articles" element={<App />} />
+      <Route path="/articles" element={<Articles />} />
       <Route path="/contact" element={<App />} />
-      <Route path="/testimonials" element={<App />} />
+      <Route path="/testimonials" element={<NotFound />} />
       <Route path="*" element={<NotFound />} />
     </Routes>
   </HashRouter>

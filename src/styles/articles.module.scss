@@ -1,0 +1,46 @@
+@import "./_variables.scss";
+
+.infoContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: auto;
+    margin-bottom: 5vh;
+    padding: 0 15rem;
+    & h1 { 
+        font-size: 2rem;
+        font-weight: 700;
+        margin: 1rem;
+        font-family: 'Times New Roman', Times, serif;
+        text-decoration: underline;
+        text-align: center;
+        width: 100%;
+    }
+
+   
+    & h2 {
+        font-size: 1.75rem;
+        font-weight: 700;
+        margin: 1rem;
+        font-family: 'Times New Roman', Times, serif;
+        text-align: left;
+        width: 100%;
+    }
+
+    & li {
+        font-size: 1.5rem;
+        font-weight: 400;
+        margin: 1rem;
+        font-family: 'Times New Roman', Times, serif;
+        text-align: left;
+        width: 100%;
+        list-style-type: disc;
+        text-decoration: underline;
+    }
+}
+
+hr {
+    width: 80%;
+    margin: 0 auto;
+    border-top: 1px solid $blue;
+}
