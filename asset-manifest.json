@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/animo-website/static/css/main.f38d1434.css",
-    "main.js": "/animo-website/static/js/main.83b12f02.js",
+    "main.css": "/animo-website/static/css/main.d5ec6592.css",
+    "main.js": "/animo-website/static/js/main.2ae4a00d.js",
     "static/js/787.53ca5eba.chunk.js": "/animo-website/static/js/787.53ca5eba.chunk.js",
     "static/media/simona1.jpg": "/animo-website/static/media/simona1.4736c9acb5cbdfec7b79.jpg",
     "static/media/potato.png": "/animo-website/static/media/potato.3a04ce8820cc86b03188.png",
     "static/media/logo.png": "/animo-website/static/media/logo.b4561ed82017668b1faf.png",
     "static/media/logo-hands.png": "/animo-website/static/media/logo-hands.4067069571b6203f4e61.png",
-    "static/media/footer.svg": "/animo-website/static/media/footer.e2cad38aa875abf6d8cda434dcab1716.svg",
+    "static/media/footer.svg": "/animo-website/static/media/footer.5d9c52bcceeb36560c06ee0a9c0a4f48.svg",
     "static/media/wave3.svg": "/animo-website/static/media/wave3.d1102373d88911bdf69358e70656b89f.svg",
     "static/media/wave2.svg": "/animo-website/static/media/wave2.67f5377cf8bfea29897af470c3edf1b0.svg",
     "static/media/wave1.svg": "/animo-website/static/media/wave1.6e1e78393fe19807c51940ce27f53f12.svg",
     "index.html": "/animo-website/index.html",
     "static/media/main-waves.svg": "/animo-website/static/media/main-waves.fd01cfe2f0340817a0294b0545f1d1d1.svg",
-    "main.f38d1434.css.map": "/animo-website/static/css/main.f38d1434.css.map",
-    "main.83b12f02.js.map": "/animo-website/static/js/main.83b12f02.js.map",
+    "main.d5ec6592.css.map": "/animo-website/static/css/main.d5ec6592.css.map",
+    "main.2ae4a00d.js.map": "/animo-website/static/js/main.2ae4a00d.js.map",
     "787.53ca5eba.chunk.js.map": "/animo-website/static/js/787.53ca5eba.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f38d1434.css",
-    "static/js/main.83b12f02.js"
+    "static/css/main.d5ec6592.css",
+    "static/js/main.2ae4a00d.js"
   ]
 }
