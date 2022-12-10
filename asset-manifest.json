@@ -1,11 +1,18 @@
 {
   "files": {
-    "main.css": "/animo-website/static/css/main.d5ec6592.css",
-    "main.js": "/animo-website/static/js/main.2ae4a00d.js",
+    "main.css": "/animo-website/static/css/main.8334a820.css",
+    "main.js": "/animo-website/static/js/main.3378a941.js",
     "static/js/787.53ca5eba.chunk.js": "/animo-website/static/js/787.53ca5eba.chunk.js",
     "static/media/simona1.jpg": "/animo-website/static/media/simona1.4736c9acb5cbdfec7b79.jpg",
+    "static/media/ana.jpeg": "/animo-website/static/media/ana.1e1c978a08d1bb08fa01.jpeg",
     "static/media/potato.png": "/animo-website/static/media/potato.3a04ce8820cc86b03188.png",
+    "static/media/ioana.jpeg": "/animo-website/static/media/ioana.92b8618ff194c765b7a2.jpeg",
+    "static/media/vera.jpeg": "/animo-website/static/media/vera.e48e857efd9687bf536a.jpeg",
+    "static/media/monica.jpeg": "/animo-website/static/media/monica.01eb85626535927e2a8d.jpeg",
+    "static/media/maria.jpeg": "/animo-website/static/media/maria.662748c94801b2b66f52.jpeg",
+    "static/media/augustina.jpeg": "/animo-website/static/media/augustina.158b5f454702bf82c463.jpeg",
     "static/media/logo.png": "/animo-website/static/media/logo.b4561ed82017668b1faf.png",
+    "static/media/iuliana.jpeg": "/animo-website/static/media/iuliana.3afe0a0363a867ab1130.jpeg",
     "static/media/logo-hands.png": "/animo-website/static/media/logo-hands.4067069571b6203f4e61.png",
     "static/media/footer.svg": "/animo-website/static/media/footer.5d9c52bcceeb36560c06ee0a9c0a4f48.svg",
     "static/media/wave3.svg": "/animo-website/static/media/wave3.d1102373d88911bdf69358e70656b89f.svg",
@@ -13,12 +20,12 @@
     "static/media/wave1.svg": "/animo-website/static/media/wave1.6e1e78393fe19807c51940ce27f53f12.svg",
     "index.html": "/animo-website/index.html",
     "static/media/main-waves.svg": "/animo-website/static/media/main-waves.fd01cfe2f0340817a0294b0545f1d1d1.svg",
-    "main.d5ec6592.css.map": "/animo-website/static/css/main.d5ec6592.css.map",
-    "main.2ae4a00d.js.map": "/animo-website/static/js/main.2ae4a00d.js.map",
+    "main.8334a820.css.map": "/animo-website/static/css/main.8334a820.css.map",
+    "main.3378a941.js.map": "/animo-website/static/js/main.3378a941.js.map",
     "787.53ca5eba.chunk.js.map": "/animo-website/static/js/787.53ca5eba.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d5ec6592.css",
-    "static/js/main.2ae4a00d.js"
+    "static/css/main.8334a820.css",
+    "static/js/main.3378a941.js"
   ]
 }
