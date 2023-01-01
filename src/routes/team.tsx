@@ -11,9 +11,6 @@ import ana from '../assets/profiles/ana.jpeg';
 import maria from '../assets/profiles/maria.jpeg';
 import iuliana from '../assets/profiles/iuliana.jpeg';
 import vera from '../assets/profiles/vera.jpeg';
-import placeholder from '../assets/profiles/placeholder.webp';
-
-import PowerCard from '../components/powerCard';
 import { Link } from 'react-router-dom';
 
 export default function Team() {

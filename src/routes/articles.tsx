@@ -2,8 +2,6 @@ import styles from '../styles/articles.module.scss';
 import classNames from 'classnames';
 import Header from '../components/header';
 import Footer from '../components/footer';
-
-import simona from '../assets/profiles/simona1.jpg';
 import data from '../data/articles.json'
 
 export default function Articles() {
