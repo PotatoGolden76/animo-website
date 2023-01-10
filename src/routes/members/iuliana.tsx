@@ -14,38 +14,18 @@ export default function Iuliana() {
 
                 <div className={styles.bioContainer}>
                     <p>
-                        Dezvolt oameni de la A la Z si
-                        -
-                        mi place sa fac asta. Vad partea buna a fiecarei persoane
-                        intalnite si ma bucur
-                        mereu
-                        cand observ un progres la cei cu care lucrez.
-                        Consider ca fiecare in
-                        parte
-                        este plin de resurse si rolul meu este sa
-                        -
-                        i sprijin pe cei care doresc sa
-                        -
-                        si regaseasca sau sa
-                        -
-                        si identifice acele resurse interioare ce
-                        -
-                        i conduc catre gasirea unei solutii care
-                        -
-                        i ajuta sa treaca
-                        de o perioada dificila.
-                        De asemenea, dezvolt organizatii, ba
-                        zandu
-                        -
-                        ma pe valorificarea experientei profesionale
-                        in psihologie si resurse umane, respectiv training si educatie in vederea dezvoltarii personale /
-                        profesionale a clientilor si / sau a eficientizarii proceselor si functiilor capitalului uman intr
-                        -
-                        o
-                        organi
-                        zatie.
+                        Dezvolt oameni de la A la Z si-mi place sa fac asta. Vad partea buna a fiecarei persoane
+                        intalnite si ma bucur mereu cand observ un progres la cei cu care lucrez.
+                        Consider ca fiecare in parte este plin de resurse si rolul meu este sa-i 
+                        sprijin pe cei care doresc sa-si regaseasca sau sa-si identifice acele resurse 
+                        interioare ce-i conduc catre gasirea unei solutii care-i ajuta sa treaca
+                        de o perioada dificila. De asemenea, dezvolt organizatii, bazandu-ma pe 
+                        valorificarea experientei profesionale in psihologie si resurse umane, 
+                        respectiv training si educatie in vederea dezvoltarii personale / profesionale a 
+                        clientilor si / sau a eficientizarii proceselor si functiilor capitalului uman intr-o
+                        organizatie.
                     </p>
-                    <img src={image} alt="Simona Mocioi" />
+                    <img src={image} alt="Iuliana Scutaru" />
                 </div>
 
                 <h3 className={styles.subtitle}>Afiliere:</h3>

@@ -14,37 +14,24 @@ export default function Monica() {
 
                 <div className={styles.bioContainer}>
                     <p>
-                        Sunt psiho
-                        log clinician
-                        cu Drept de liberă practică eliberat de Colegiul Psihologilor din
-                        România,
-                        psihoterapeut,
-                        consilier vocațional
-                        și logoped
-                        . Ca psiholog, am competențe și
+                        Sunt psiholog clinician cu Drept de liberă practică eliberat de Colegiul
+                        Psihologilor din România, psihoterapeut, consilier vocațional
+                        și logoped. Ca psiholog, am competențe și
                         Atestat de liberă practică în „Psihologie clinică”
-                        –
-                        COD
-                        18679
-                        .
-                        Iubesc ceea ce fac ș
-                        i iubesc oamenii.
-                        Este un miracol că fiecare dintre noi există! Fiecare
-                        secundă pe care o trăim e prețioasă și un dar minunat primit odată cu viața. Ușoară sau grea,
-                        viața noastră este complexă și imprevizibilă, surprinzându
-                        -
-                        ne în fiecare zi. Să nu lăsăm c
-                        a
-                        lucrurile triste, îngrijorările și bătăliile zilnice să ne oprească din a reflecta și admira
-                        frumusețea acesteia.
+                        – COD 18679.
+                        Iubesc ceea ce fac și iubesc oamenii. Este un miracol că fiecare dintre
+                        noi există! Fiecare secundă pe care o trăim e prețioasă și un dar minunat
+                        primit odată cu viața. Ușoară sau grea, viața noastră este complexă și
+                        imprevizibilă, surprinzându-ne în fiecare zi. Să nu lăsăm ca
+                        lucrurile triste, îngrijorările și bătăliile zilnice să ne oprească din a
+                        reflecta și admira frumusețea acesteia.
                         Există momente în viața fiecăruia dintre noi când, după ce am experimentat un eveniment
                         negativ de viață, să avem nevoie de cineva care să
                         ne asculte, să ne îndrume, să ne readucă la
-                        viață, iar acest cineva ar putea fi un psihoterapeu
-                        t sau psiholog cu care rezonezi, aș putea fi
+                        viață, iar acest cineva ar putea fi un psihoterapeut sau psiholog cu care rezonezi, aș putea fi
                         chiar eu acela.
                     </p>
-                    <img src={image} alt="Simona Mocioi" />
+                    <img src={image} alt="Monica Stanica" />
                 </div>
 
                 <h3 className={styles.subtitle}>Educatie:</h3>
@@ -122,8 +109,7 @@ export default function Monica() {
                                     Personalitate
                                 </li>
                                 <li>
-                                Aptitudini profesion
-ale și Orientare în carieră
+                                    Aptitudini profesionale și Orientare în carieră
                                 </li>
                             </ul>
                         </li>

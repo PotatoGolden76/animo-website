@@ -11,47 +11,22 @@ export default function Ioana() {
             <Header />
             <div className={classNames("container", styles.container)}>
                 <h1>Ioana Venera Costache</h1>
-                {/* <h2>Fondator Centrul Animo</h2> */}
 
                 <div className={styles.bioContainer}>
                     <p>
-                        Daca citesti aceste randuri, inseamna ca nu ne
-                        -
-                        am intalnit si
-                        poate ai vrea
-                        sa stii cate
+                        Daca citesti aceste randuri, inseamna ca nu ne-am intalnit si poate ai vrea sa stii cate
                         ceva despre mine. Asadar, numele meu este Costache Venera Ioana, sunt psihoterapeut,
-                        am 46 ani, sunt casatorita, am 2 copii, locuiesc in Bucuresti, dar
-                        fiind nascuta in Constanta.
+                        am 46 ani, sunt casatorita, am 2 copii, locuiesc in Bucuresti, dar fiind nascuta in Constanta.
                         In adolescenta, cautam sa ma cunosc, sa inteleg ce simt si de ce simt asa, apoi cum
                         pot sa ma ajut. Asa a inceput drumul meu catre psihoterapie, cu dorinta de a intelege ce simt
-                        eu, ce simt
-                        oamenii si ce
-                        -
-                        i determina sa se compor
-                        te intr
-                        -
-                        un fel sau altul.
-                        Parcursul
-                        meu
-                        profesional incepe cu multi ani in urma, in anul 200
-                        5
-                        cand am absolvit
-                        F
-                        acultatea de Psihologie, apoi am pornit pe acest drum ca psiholog, mai intai in cadrul unui
-                        cabinet psihologic din Constanta, apoi in Bucuresti
-                        unde am continuat studiile complementare
-                        si am infiintat
-                        C
-                        abinetul de psihoterapie
-                        in anul 2016
-                        . Ulterior, in anul 2019, m
-                        -
-                        am alaturat
-                        Asociatiei Animo
-                        , unde sunt in prezent.
+                        eu, ce simt oamenii si ce-i determina sa se comporte intr-un fel sau altul.
+                        Parcursul meu profesional incepe cu multi ani in urma, in anul 2005 cand am absolvit
+                        Facultatea de Psihologie, apoi am pornit pe acest drum ca psiholog, mai intai in cadrul unui
+                        cabinet psihologic din Constanta, apoi in Bucuresti unde am continuat studiile complementare
+                        si am infiintat Cabinetul de psihoterapie in anul 2016. Ulterior, in anul 2019, m-am alaturat
+                        Asociatiei Animo, unde sunt in prezent.
                     </p>
-                    <img src={image} alt="Simona Mocioi" />
+                    <img src={image} alt="Ioana Venera Costache" />
                 </div>
 
                 <h3 className={styles.subtitle}>Afiliere:</h3>
@@ -77,17 +52,10 @@ export default function Ioana() {
                     <ul>
                         <li>
                             Training EMDR “Eye Movement Desensitization and Reprocessing Therapy”(EMDR
-                            Europe Association)
-                            -
-                            (2019
-                            -
-                            2020)
+                            Europe Association) - (2019-2020)
                         </li>
                         <li>Training “Schema Therapy” (Asociatia de Hipnoterapie si Psihoterapie Cognitiv
-                            –
-                            Comportamentala)
-                            –
-                            ( 2019)
+                            – Comportamentala) – (2019)
                         </li>
                         <li>
                             Master Class in Schema Therapy

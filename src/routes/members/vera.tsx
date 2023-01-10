@@ -14,16 +14,18 @@ export default function Vera() {
 
                 <div className={styles.bioContainer}>
                     <p>
-                        Sunt o persoană caldă empatică, un bun ascultător, discretă, diplomată și iubesc oamenii. Cred în puterea și resursele personale pe care fiecare dintre noi le avem
+                        Sunt o persoană caldă empatică, un bun ascultător, discretă, diplomată și iubesc oamenii.
+                        Cred în puterea și resursele personale pe care fiecare dintre noi le avem
                         iar experiența de aprox 20 ani cu copii si adulți bolnavi, cu clienții
-                        la policlinică și în cabinet m-au făcut sa înțeleg unicitatea
-                        Omului, a destinelor si relațiilor
-                        .Te pot ajuta în procesul terapeutic individual pentru confirmarea/infirmarea unor ipoteze si
-                        abordari de lucru si, ulterior pentru a monitoriza procesul.
-                        Pentru a radiografia percepț ia ta asupra trecutului personal și a identifica schemele de gândire si tiparele de comportament pe care le accesezi automat în viața de zi cu zi. Evaluarea neurocognitivă a persoanelor vârstnice pentru încadrarea in grad de handicap pt Comisia de Expertiză
-                        .
+                        la policlinică și în cabinet m-au făcut sa înțeleg unicitatea Omului, a
+                        destinelor si relațiilor. Te pot ajuta în procesul terapeutic individual
+                        pentru confirmarea/infirmarea unor ipoteze si abordari de lucru si, ulterior
+                        pentru a monitoriza procesul. Pentru a radiografia percepț ia ta asupra trecutului
+                        personal și a identifica schemele de gândire si tiparele de comportament pe care le
+                        accesezi automat în viața de zi cu zi. Evaluarea neurocognitivă a persoanelor vârstnice
+                        pentru încadrarea in grad de handicap pt Comisia de Expertiză.
                     </p>
-                    <img src={image} alt="Simona Mocioi" />
+                    <img src={image} alt="Vera Constantinescu" />
                 </div>
                 <p>
                     Avize psihologice pentru: obținere permis categorie A, B; obținere permis ambarcațiuni cu motor si velier.

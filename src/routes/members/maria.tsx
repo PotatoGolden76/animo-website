@@ -14,7 +14,7 @@ export default function Maria() {
 
                 <div className={styles.bioContainer}>
 
-                    <img src={image} alt="Simona Mocioi" />
+                    <img src={image} alt="Maria Spataru" />
                 </div>
 
                 <h3 className={styles.subtitle}>Afiliere:</h3>

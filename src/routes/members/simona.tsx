@@ -16,21 +16,12 @@ export default function Simona() {
                 <div className={styles.bioContainer}>
                     <p>
                         Dacă ar fi să definesc cu ajutorul unui singur cuvânt ceea ce mă motivează și mă pasionează cel mai
-                        mult, atunci aș folosi cuvântul ”relație”.
-                        Relația cu fiul meu mi
-                        -
-                        a ”deschis ochii” spre o nouă înțelegere
-                        a vieții, relația cu soțul și părinții mei m
-                        -
-                        a ajutat să dau formă și să pun în mișcare un nou plan pentru
-                        cariera mea, relația cu colegii și prietenii m
-                        -
-                        a ajutat să îl pun in
-                        aplicare
-                        .
-                        Tot ”
-                        relația” este pasiunea mea și în activitatea de terapeut: vindec relații, ajut oamenii sa creeze și să
-                        dezvolte relații sănătoase, începând de la relația cu propriul sine.
+                        mult, atunci aș folosi cuvântul ”relație”. Relația cu fiul meu mi-a ”deschis ochii” spre o 
+                        nouă înțelegere a vieții, relația cu soțul și părinții mei m-a ajutat să dau formă și să 
+                        pun în mișcare un nou plan pentru cariera mea, relația cu colegii și prietenii m-a 
+                        ajutat să îl pun in aplicare. Tot ”relația” este pasiunea mea și în activitatea 
+                        de terapeut: vindec relații, ajut oamenii sa creeze și să dezvolte relații 
+                        sănătoase, începând de la relația cu propriul sine.
                     </p>
                     <img src={image} alt="Simona Mocioi" />
                 </div>
