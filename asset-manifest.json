@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/animo-website/static/css/main.8334a820.css",
-    "main.js": "/animo-website/static/js/main.98fafe20.js",
+    "main.css": "/animo-website/static/css/main.864b349f.css",
+    "main.js": "/animo-website/static/js/main.f84d638c.js",
     "static/js/787.53ca5eba.chunk.js": "/animo-website/static/js/787.53ca5eba.chunk.js",
     "static/media/vera.jpeg": "/animo-website/static/media/vera.fab8da84e6313228d339.jpeg",
     "static/media/simona1.jpg": "/animo-website/static/media/simona1.4736c9acb5cbdfec7b79.jpg",
@@ -20,12 +20,12 @@
     "static/media/wave1.svg": "/animo-website/static/media/wave1.6e1e78393fe19807c51940ce27f53f12.svg",
     "index.html": "/animo-website/index.html",
     "static/media/main-waves.svg": "/animo-website/static/media/main-waves.fd01cfe2f0340817a0294b0545f1d1d1.svg",
-    "main.8334a820.css.map": "/animo-website/static/css/main.8334a820.css.map",
-    "main.98fafe20.js.map": "/animo-website/static/js/main.98fafe20.js.map",
+    "main.864b349f.css.map": "/animo-website/static/css/main.864b349f.css.map",
+    "main.f84d638c.js.map": "/animo-website/static/js/main.f84d638c.js.map",
     "787.53ca5eba.chunk.js.map": "/animo-website/static/js/787.53ca5eba.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8334a820.css",
-    "static/js/main.98fafe20.js"
+    "static/css/main.864b349f.css",
+    "static/js/main.f84d638c.js"
   ]
 }
