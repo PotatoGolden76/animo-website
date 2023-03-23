@@ -8,13 +8,34 @@
     margin-bottom: 5vh;
     padding: 0 3rem;
 
-    &>p {
+    & .accHeader {
+        width: 100%;
+        padding: 0;
+        margin: 0;
+    }
+
+    & .accHeader>div>div>a {
+        font-size: 1.75rem;
+        font-weight: 700;
+        margin-bottom: 0;
+        font-family: 'Times New Roman', Times, serif;
+        text-align: left;
+        width: 100%;
+        text-decoration: underline;
+
+        transition: all 0.2s ease-in-out;
+        &:hover {
+            background-color: $yellow;
+            padding: 5px;
+        }
+    }
+
+    & p {
         text-indent: 1rem;
         font-size: 1.25rem;
         font-weight: 400;
         margin: 0.5rem;
         width: 100%;
-
     }
 
     & .bioContainer {
@@ -25,6 +46,7 @@
         margin: 3rem;
         width: 100%;
         padding: 0 0rem;
+
 
         & p {
             text-indent: 1rem;
@@ -41,6 +63,14 @@
             padding: 0;
             border: 3px black solid;
         }
+
+        
+        @media screen and (max-width: 1400px) {
+            flex-direction: column;
+            & img {
+                margin-top: 50px;
+            }
+        }
     }
 
     & section {
@@ -53,6 +83,9 @@
             width: 100%;
             text-align: left;
             list-style-type: disc;
+            & a {
+                text-decoration: underline;
+            }
         }
     }
 
@@ -88,6 +121,10 @@
         text-decoration: underline;
         text-align: left;
         width: 100%;
+    }
+
+    & li {
+        text-decoration: none!important;
     }
 
 }

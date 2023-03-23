@@ -22,13 +22,13 @@ export default function Articles() {
             <Header />
 
             <section className={classNames(containerTStyle, styles.infoContainer)}>
-                <h1 className={styles.title}>Articole</h1>
+                <h1 className={styles.title}>Linkuri Utile</h1>
+                <ul className={styles.imageContainer}>
                 {
                     Object.keys(articles).map((month, index: number) => {
                         return (
                             <>
-                                <h2 key={month}>{month}:</h2>
-                                <ul className={styles.imageContainer} key={index}>
+                                
                                     {
                                         articles[month].map((article: any, index: number) => {
                                             return (
@@ -40,11 +40,12 @@ export default function Articles() {
                                             )
                                         })
                                     }
-                                </ul>
+                                
                             </>
                         )
                     })
                 }
+                </ul>
             </section>
             <Footer />
         </>

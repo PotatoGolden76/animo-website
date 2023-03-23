@@ -17,8 +17,7 @@ export default function Header(props: any) {
             <nav className={classNames(sectionTStyle)}>
                 <div className={styles.button}><Link to={"/about"}>Despre Noi</Link></div>
                 <div className={styles.button}><Link to={"/team"}>Echipa</Link></div>
-                <div className={styles.button}><Link to={"/articles"}>Articole</Link></div>
-                <div className={styles.button}><Link to={"/testimonials"}>Testimoniale</Link></div>
+                <div className={styles.button}><Link to={"/articles"}>Linkuri utile</Link></div>
                 <div className={styles.button}><Link to={"/contact"}>Contact</Link></div>
             </nav>
         </div>

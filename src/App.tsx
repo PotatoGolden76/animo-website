@@ -35,10 +35,9 @@ export default function App() {
         <div className={styles.cardContainer}>
           <PowerCard text="Despre Noi" icon={faBookOpen} wave={wave1} height={"80%"} width={"80%"} destination={"/about"} />
           <PowerCard text="Echipa" icon={faPeopleGroup} wave={wave2} height={"80%"} width={"80%"} destination={"/team"} />
-          <PowerCard text="Articole" icon={faNewspaper} wave={wave3} height={"80%"} width={"80%"} destination={"/articles"} />
-          <PowerCard text="Testimoniale" icon={faMessage} wave={wave1} height={"80%"} width={"80%"} destination={"/testimonials"} />
+          <PowerCard text="Linkuri Utile" icon={faNewspaper} wave={wave3} height={"80%"} width={"80%"} destination={"/articles"} />
+          <PowerCard text="Contact" destination={"/testimonials"}  icon={faMessage} wave={wave1} height={"80%"} width={"80%"}/>
 
-          <PowerCard text="Contacteaza-ne" destination={"/testimonials"} height={"100%"} width={"80%"} fullBg className={styles.contact} />
         </div>
 
       </div>

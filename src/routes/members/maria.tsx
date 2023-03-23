@@ -4,6 +4,7 @@ import Header from "../../components/header";
 
 import styles from "../../styles/member.module.scss";
 import image from "../../assets/profiles/maria.jpeg";
+import { Accordion, AccordionTab } from 'primereact/accordion';
 
 export default function Maria() {
     return (
@@ -13,136 +14,143 @@ export default function Maria() {
                 <h1>Maria Spataru</h1>
 
                 <div className={styles.bioContainer}>
+                    <section>
+                        <h3 className={styles.subtitle}>Servicii si tarife:</h3>
+                        <ul>
+                            <li>
+                                200 ron/50 minute - Consiliere psihologica/ Terapie individuala
+                                –
+                                copii si adolescenti
+                            </li>
+                            <li>
+                                200 ron/50 minute - Consiliere scolara si educationala
+                            </li>
+                            <li>
+                                250 ron/75-90 minute - Consiliere parentala
+                            </li>
+                            <li>
+                                300 ron/90 minute - Terapie de familie
+                            </li>
 
+                        </ul>
+
+                        <h3 className={styles.subtitle}>Contact:</h3>
+                        <ul>
+                            <li>Telefon, Whatsapp: +40744.784.873</li>
+                        </ul>
+                    </section>
                     <img src={image} alt="Maria Spataru" />
                 </div>
 
-                <h3 className={styles.subtitle}>Afiliere:</h3>
+                <Accordion className={styles.accHeader} >
+                    <AccordionTab header="Despre Mine ►">
+                        <p></p>
 
-                <section>
-                    <ul>
-                        <li>
-                            Membru al Colegiului Psihologilor din Romania (2013)
-                        </li>
-                        <li>
-                            Membru AHPCC Romania (2016)
-                        </li>
-                    </ul>
-                </section>
+                        <h3 className={styles.subtitle}>Afiliere:</h3>
 
-                <h3 className={styles.subtitle}>Educatie si formare:</h3>
+                        <section>
+                            <ul>
+                                <li>
+                                    Membru al Colegiului Psihologilor din Romania (2013)
+                                </li>
+                                <li>
+                                    Membru AHPCC Romania (2016)
+                                </li>
+                            </ul>
+                        </section>
 
-                <section>
-                    <ul>
-                        <li>
-                            Diplomă de
-                            Master
-                            -
-                            Evaluare si Interventie Psihologica
-                            in Domeniul Educational
-                            -
-                            Universitatea
-                            Bucuresti, Facultatea de Psihologie si
-                            Stiintele Educatiei
-                            -
-                            2018
-                        </li>
-                        <li>
-                            Diplomă de Master
-                            -
-                            Psihodiagnoza Cognitiva si
-                            Consiliere Psihologica
-                            -
-                            Universitatea Ecologica
-                            Bucuresti, Faculta
-                            tea de Psihologie
-                            –
-                            2015
-                        </li>
-                        <li>
-                            Diplomă de Licență
-                            –
-                            Facultatea de Psihologie și Științele Educației, Specializarea Psihologie,
-                            Universitatea București
-                            –
-                            2011
-                        </li>
-                        <li>
-                            Formare de bază
-                            -
-                            Consiliere psihologica cognitiv
-                            –
-                            comportamentală
-                            –
-                            AHPCC, 2016
-                        </li>
-                        <li>
-                            Formare complementar
-                            ă
-                            –
-                            Terapie sistemică
-                            –
-                            cuplu, copil, familie
-                            –
-                            ACTF, 2017
-                        </li>
-                        <li>
-                            Formare complementară
-                            –
-                            Terapie de cuplu centrată pe emoții
-                            –
-                            ICEEFT, EFT Romania, 2019
-                        </li>
-                    </ul>
-                </section>
+                        <h3 className={styles.subtitle}>Educatie si formare:</h3>
 
-                <h3 className={styles.subtitle}>Competențe și calificări:</h3>
+                        <section>
+                            <ul>
+                                <li>
+                                    Diploma de
+                                    Master
+                                    -
+                                    Evaluare si Interventie Psihologica
+                                    in Domeniul Educational
+                                    -
+                                    Universitatea
+                                    Bucuresti, Facultatea de Psihologie si
+                                    Stiintele Educatiei
+                                    -
+                                    2018
+                                </li>
+                                <li>
+                                    Diploma de Master
+                                    -
+                                    Psihodiagnoza Cognitiva si
+                                    Consiliere Psihologica
+                                    -
+                                    Universitatea Ecologica
+                                    Bucuresti, Faculta
+                                    tea de Psihologie
+                                    –
+                                    2015
+                                </li>
+                                <li>
+                                    Diploma de Licenta
+                                    –
+                                    Facultatea de Psihologie si Stiintele Educatiei, Specializarea Psihologie,
+                                    Universitatea Bucuresti
+                                    –
+                                    2011
+                                </li>
+                                <li>
+                                    Formare de baza
+                                    -
+                                    Consiliere psihologica cognitiv
+                                    –
+                                    comportamentala
+                                    –
+                                    AHPCC, 2016
+                                </li>
+                                <li>
+                                    Formare complementar
+                                    a
+                                    –
+                                    Terapie sistemica
+                                    –
+                                    cuplu, copil, familie
+                                    –
+                                    ACTF, 2017
+                                </li>
+                                <li>
+                                    Formare complementara
+                                    –
+                                    Terapie de cuplu centrata pe emotii
+                                    –
+                                    ICEEFT, EFT Romania, 2019
+                                </li>
+                            </ul>
+                        </section>
 
-                <section>
-                    <ul>
-                        <li>
-                            TERAPIE INDIVIDUALĂ CENTRATĂ PE EMOŢII: extinderea unui
-                            model bazat pe ataşament
-                            pentru terapia
-                            individuală
-                            –
-                            EFT Romania, 2019
-                        </li>
-                        <li>
-                            Terapia centrata pe soluții
-                            –
-                            Metoda ”Eu pot”
-                            –
-                            Mindhelp, 2019
-                        </li>
-                    </ul>
-                </section>
+                        <h3 className={styles.subtitle}>Competente si calificari:</h3>
 
-                <h3 className={styles.subtitle}>Servicii si tarife:</h3>
+                        <section>
+                            <ul>
+                                <li>
+                                    TERAPIE INDIVIDUALA CENTRATA PE EMOTII: extinderea unui
+                                    model bazat pe atasament
+                                    pentru terapia
+                                    individuala
+                                    –
+                                    EFT Romania, 2019
+                                </li>
+                                <li>
+                                    Terapia centrata pe solutii
+                                    –
+                                    Metoda ”Eu pot”
+                                    –
+                                    Mindhelp, 2019
+                                </li>
+                            </ul>
+                        </section>
+                    </AccordionTab>
+                </Accordion>
 
-                <section>
-                    <ul>
-                        <li>
-                            200 ron/50 minute - Consiliere psihologică/ Terapie individuală
-–
-copii și adolescenți
-                        </li>
-                        <li>
-                            200 ron/50 minute - Consiliere școlară și educațională
-                        </li>
-                        <li>
-                            250 ron/75-90 minute - Consiliere parentala
-                        </li>
-                        <li>
-                            300 ron/90 minute - Terapie de familie
-                        </li>
-                        
-                    </ul>
-                </section>
 
-                <h3 className={styles.subtitle}>Contact:</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim veritatis sequi reprehenderit illum nisi veniam ullam vel voluptatem. Fuga tenetur dignissimos qui consectetur laborum accusamus nemo quia sit beatae culpa.</p>
-                {/* TODO: Add social media and spellcheck --> */}
+
             </div>
             <Footer />
         </>

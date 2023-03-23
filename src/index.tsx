@@ -19,6 +19,8 @@ import Augustina from './routes/members/augustina';
 import Maria from './routes/members/maria';
 import Iuliana from './routes/members/iuliana';
 import Vera from './routes/members/vera';
+import Ana from './routes/members/ana';
+import Contact from './routes/contact';
 
 const root = ReactDOM.createRoot(
   document.getElementById('root') as HTMLElement
@@ -32,7 +34,7 @@ root.render(
       <Route path="/about" element={<About />} />
       <Route path="/team" element={<Team />} />
       <Route path="/articles" element={<Articles />} />
-      <Route path="/contact" element={<App />} />
+      <Route path="/contact" element={<Contact />} />
       <Route path="/testimonials" element={<NotFound />} />
 
       <Route path="/members/simona" element={<Simona />} />
@@ -42,6 +44,8 @@ root.render(
       <Route path="/members/maria" element={<Maria />} />
       <Route path="/members/iuliana" element={<Iuliana />} />
       <Route path="/members/vera" element={<Vera />} />
+      <Route path="/members/ana" element={<Ana />} />
+
       <Route path="*" element={<NotFound />} />
     </Routes>
   </HashRouter>
