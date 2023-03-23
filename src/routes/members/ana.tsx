@@ -17,19 +17,10 @@ export default function Ana() {
                     <section>
                         <h3 className={styles.subtitle}>Servicii si tarife:</h3>
                         <ul>
-                            <li>
-                                250 ron/50min - Consiliere pentru Dezvoltare Personala (Life Coaching)
-                            </li>
-                            <li>
-                                1000 ron/4 sedinte - Training Comunicare
-                            </li>
-                            <li>
-                                250 ron - Consiliere vocationala
-                            </li>
-                            <li>
-                                minim 4 participanti, 150 lei/sedinta 90 min - Ateliere scriere creativa / academica (copii si adolescenti)
-                            </li>
-
+                            <li>Consiliere pentru Dezvoltare Personala (Life Coaching) - 250 ron/50min</li>
+                            <li>Training Comunicare - 1000 ron/4 sedinte</li>
+                            <li>Consiliere vocationala - 250 ron</li>
+                            <li>Ateliere scriere creativa / academica (copii si adolescenti) - 150 lei/sedinta 90 min - minim 4 participanti</li>
                         </ul>
                     </section>
                     <img src={image} alt="Ana Maria Vulpescu" />
@@ -40,7 +31,7 @@ export default function Ana() {
 
                     <ul>
                         <li>Telefon, Whatsapp: 0745.030.331</li>
-                        <li>Email: veraconstantinescu@yahoo.com</li>
+                        <li>Email: anamariavulpescu@gmail.com</li>
                     </ul>
                 </section>
 
@@ -58,7 +49,7 @@ export default function Ana() {
                             </ul>
                         </section>
 
-                        <h3 className={styles.subtitle}>Educatie si formare:</h3>
+                        <h3 className={styles.subtitle}>Studii:</h3>
 
                         <section>
                             <ul>

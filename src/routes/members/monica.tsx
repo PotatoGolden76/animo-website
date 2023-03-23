@@ -20,24 +20,19 @@ export default function Monica() {
                     <section>
                         <h3 className={styles.subtitle}>Servicii si tarife:</h3>
                         <ul>
+                            <li>Evaluare psihologica clinica pentru incadrarea in handicap copii si adulti (Anexa 8, respectiv Raport
+                                psihologic adulti incluzand Q.I., MMSE, Scor GAFS. Se aplica Timbru profesional - 200 ron/50 minute</li>
                             <li>
-                                200 ron/50 minute - Evaluare psihologica clinica pentru incadrarea in handicap copii si adulti (Anexa 8, respectiv Raport psihologic adulti
-                                incluzand Q.I., MMSE, Scor GAFS. Se aplica Timbru profesional.
-                            </li>
+                                Evaluarea copiilor cu dificultati de invatare specifice (dislexie, disgrafie, discalculie), a problemelor de
+                                concentrare a atentiei si de memorare sau a eventualelor probleme emotionale. - 200 ron/50 minute</li>
                             <li>
-                                200 ron/50 minute - Evaluarea copiilor cu dificultati de invatare specifice (dislexie, disgrafie, discalculie), a problemelor de concentrare a
-                                atentiei si de memorare sau a eventualelor probleme emotionale.
-                            </li>
+                                AVIZ PSIHOLOGIC (voluntariat isu/smurd/igsu, plasament familial, adoptie, instituire tutela,
+                                insotitor/asistent personal, asistent maternal, FIV cuplu (fertilizare in vitro) - 150 ron/50 minute</li>
                             <li>
-                                150 ron/50 minute - AVIZ PSIHOLOGIC (voluntariat isu/smurd/igsu, plasament familial, adoptie, instituire tutela, insotitor/asistent
-                                personal, asistent maternal, FIV cuplu (fertilizare in vitro)
-                            </li>
+                                Consiliere psihologica/Psihoterapie de scurta durata (copii si adulti)/Psihoterapie cognitiv-
+                                comportamentala - 150 ron/50 minute</li>
                             <li>
-                                150 ron/50 minute - Consiliere psihologica/Psihoterapie de scurta durata (copii si adulti)/Psihoterapie cognitiv-comportamentala
-                            </li>
-                            <li>
-                                100 ron/1-2 ore - Dezvoltare personala copii/adolescenti
-                            </li>
+                                Dezvoltare personala copii/adolescenti - 100 ron/1-2 ore</li>
                         </ul>
                     </section>
                     <img src={image} alt="Monica Stanica" />

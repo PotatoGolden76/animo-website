@@ -17,24 +17,13 @@ export default function Vera() {
                     <section>
                         <h3 className={styles.subtitle}>Servicii si tarife:</h3>
                         <ul>
-                            <li>
-                                170 ron/50min - Consiliere psihologica/  Terapie individuala adulti
-                            </li>
-                            <li>
-                                250 ron - Evaluare neurocognitiva varstnici pentru incadrarea in grad de handicap - la domiciliul clientului
-                            </li>
-                            <li>
-                                150 ron - Aviz psihologic - asistent maternal, asistent personal, etc.
-                            </li>
-                            <li>
-                                150 ron - Aviz psihologic - obtinere permis ambarcatiune cu motor si velier.
-                            </li>
-                            <li>
-                                100 ron - Aviz psihologic - obtinere permis categ A, B.
-                            </li>
-                            <li>
-                                100 ron Aviz psihologic - angajare( medicina muncii)
-                            </li>
+                            <li>Consiliere psihologica/ Terapie individuala adulti - 170 ron/50min</li>
+                            <li>Evaluare neurocognitiva varstnici pentru incadrarea in grad de handicap - la domiciliul clientului - 250</li>
+                            <li>ron</li>
+                            <li>Aviz psihologic - asistent maternal, asistent personal, etc. - 150 ron</li>
+                            <li>Aviz psihologic - obtinere permis ambarcatiune cu motor si velier.- 150 ron</li>
+                            <li>Aviz psihologic - obtinere permis categ A, B. - 100 ron</li>
+                            <li>Aviz psihologic - angajare( medicina muncii) - 100 ron</li>
                         </ul>
                     </section>
                     <img src={image} alt="Vera Constantinescu" />

@@ -19,36 +19,17 @@ export default function Iuliana() {
                     <section>
                         <h3 className={styles.subtitle}>Servicii si tarife:</h3>
                         <ul>
-                            <li>
-                                200 ron/50 minute - Consiliere psihologica pentru adulti
-                            </li>
-                            <li>
-                                230 ron/50 minute - Coaching
-                            </li>
-                            <li>
-                                200 ron/45 minute - Consiliere psihologica pentru copii si adolescenti
-                            </li>
-                            <li>
-                                200 ron/45 minute - Consilierea carierei si vocationala
-                            </li>
-                            <li>
-                                200 ron/45 minute - Consiliere scolara
-                            </li>
-                            <li>
-                                200 ron/45 minute - Consiliere dezvoltare personala pentru adulti
-                            </li>
-                            <li>
-                                200 ron/45 minute - Consiliere dezvoltare personala pentru copii si adolescenti
-                            </li>
-                            <li>
-                                250 ron/75-90 minute - Consiliere/Terapie sistemica (familie/cuplu)
-                            </li>
-                            <li>
-                                150 ron/3 ore - Grupuri de dezvoltare personala/suport pentru adulti, copii si adolescenti
-                            </li>
-                            <li>
-                                100 ron/sesiune/pers - Workshopuri dezvoltare personala, psihoeducatie, socializare
-                            </li>
+                            <li>Consiliere psihologică – adulți - 200 ron/ 50 minute</li>
+                            <li>Coaching - 250 ron / 50 minute</li>
+                            <li>Consiliere psihologică – copii și adolescenți - 200 ron/ 45 minute</li>
+                            <li>Consiliere parentala - 250 ron / 50 minute</li>
+                            <li>Consilierea carierei / Consiliere vocationala - 200 ron/ 45 minute</li>
+                            <li>Consiliere scolara - 200 ron/ 45 minute</li>
+                            <li>Consiliere dezvoltare personala – adulți - 200 ron/ 45 minute</li>
+                            <li>Consiliere dezvoltare personala – copii și adolescenți - 200 ron/ 45 minute</li>
+                            <li>Consiliere / Terapie sistemica (familie / cuplu) - 250 ron/ 75-90 minute</li>
+                            <li>Grupuri de dezvoltare personala /suport – adulti, adolescenți, copii - 200 ron/3 ore</li>
+                            <li>Workshopuri dezvoltare personala, psihoeducație, socializare - 150 – 750 ron/ sesiune/ persoana (in functie de instrumentele utilizate)</li>
                         </ul>
                     </section>
                     <img src={image} alt="Iuliana Scutaru" />

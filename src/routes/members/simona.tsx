@@ -23,21 +23,13 @@ export default function Simona() {
                     <section>
                         <h3 className={styles.subtitle}>Servicii si tarife:</h3>
                         <ul>
-                            <li>
-                                200 ron/50 minute - Consiliere psihologica/Terapie individuala adulti si adolescenti
-                            </li>
-                            <li>
-                                300 ron/75-90 minute - Terapie de cuplu si familie
-                            </li>
-                            <li>
-                                350 ron/75-90 minute - Terapie de cuplu (limba engleza)
-                            </li>
-                            <li>
-                                200 ron/3 ore - Grupuri de dezvoltare personala/suport adulti si adolescenti
-                            </li>
-                            <li>
-                                150 ron/sesiune/pers - Workshopuri psihoeducatie si socializare
-                            </li>
+                            <li>Consiliere psihologica/Terapie individuala adulti si adolescenti - 200 ron/50 minute</li>
+                            <li>Terapie de cuplu si familie - 300 ron/75-90 minute</li>
+                            <li>Terapie de cuplu (limba engleza) - 350 ron/75-90 minute</li>
+                            <li>Consiliere de discernamant (pentru cupluri aflate in pragul divortului) – 400 lei/1 sedinta</li>
+                            <li>Grupuri de dezvoltare personala/suport adulti si adolescenti - 200 ron/3 ore</li>
+                            <li>Workshopuri psihoeducatie si socializare - 150 ron/sesiune/pers</li>
+                            Toate serviciile pot fi oferite la cabinet sau online, pe Google Meet
                         </ul>
                     </section>
 
@@ -51,11 +43,11 @@ export default function Simona() {
                     <ul>
                         <li>Telefon, Whatsapp: +40743.168.491</li>
                         <li>Email: simona@centrulanimo.com</li>
-                        <li>Site: <a href="https://pastiladepsihologie.com/">pastiladepsihologie.com</a></li>
-                        <li>LinkedIn: <a href="https://www.linkedin.com/in/simonamocioi/">linkedin.com/in/simonamocioi</a></li>
-                        <li>Facebook: <a href="https://www.facebook.com/psiholog.mocioi">facebook.com/psiholog.mocioi</a></li>
-                        <li>Instagram: <a href=" https://www.instagram.com/psihologsimonam/">instagram.com/psihologsimonam</a></li>
-                        <li>Twitter: <a href="https://twitter.com/simonamocioi">twitter.com/simonamocioi</a></li>
+                        <li>Site: <a target="_blank" href="https://pastiladepsihologie.com/">pastiladepsihologie.com</a></li>
+                        <li>LinkedIn: <a target="_blank" href="https://www.linkedin.com/in/simonamocioi/">linkedin.com/in/simonamocioi</a></li>
+                        <li>Facebook: <a target="_blank" href="https://www.facebook.com/psiholog.mocioi">facebook.com/psiholog.mocioi</a></li>
+                        <li>Instagram: <a target="_blank" href=" https://www.instagram.com/psihologsimonam/">instagram.com/psihologsimonam</a></li>
+                        <li>Twitter: <a target="_blank" href="https://twitter.com/simonamocioi">twitter.com/simonamocioi</a></li>
                     </ul>
                 </section>
 

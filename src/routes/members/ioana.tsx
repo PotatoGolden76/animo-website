@@ -21,7 +21,7 @@ export default function Ioana() {
 
                         <ul>
                             <li>
-                                200 ron/50 minute - Terapie individuala adulti (cabinet si online platforma Zoom)
+                            Psihoterapie individuala adulti (cabinet si online platforma Zoom) - 200 ron/50 minute
                             </li>
                         </ul>
 

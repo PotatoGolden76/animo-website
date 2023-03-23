@@ -33,7 +33,7 @@ export default function Articles() {
                                         articles[month].map((article: any, index: number) => {
                                             return (
                                                 <li key={index}>
-                                                    <a href={article.link}>
+                                                    <a href={article.link} target="_blank">
                                                         {article.title}
                                                     </a>
                                                 </li>

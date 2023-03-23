@@ -17,23 +17,13 @@ export default function Augustina() {
 
                     <section>
                         <h3 className={styles.subtitle}>Servicii si tarife:</h3>
-                        <ul>
-                            <li>
-                                200 ron/50 minute - Consiliere psihologica
-                            </li>
-                            <li>
-                                200 ron/50 minute - Consiliere dezvoltare personala
-                            </li>
-                            <li>
-                                200 ron/2 ore - Dezvoltare personala de grup (adulti si copii)
-                            </li>
-                            <li>
-                                100 ron/50 minute - Ateliere pentru copii
-                            </li>
-                            <li>
-                                250 ron/1 ora - Consiliere de cuplu si familie
-                            </li>
-                        </ul>
+                       <ul>
+                       <li>Consiliere psihologică (adulți și copii) – 200 ron/50 minute</li>
+                       <li>Consiliere dezvoltare personala (adulți și copii) – 200 ron/50 minute</li>
+                       <li>Dezvoltare personală de grup ( copii, adolescenți și adulți) – 200 ron/2 ore</li>
+                       <li>Ateliere pentru copii și adolescenți – 100 ron/50 minute</li>
+                       <li>Consiliere de cuplu și familie – 250 ron/ o oră</li>
+                       </ul>
 
                         <h3 className={styles.subtitle}>Contact:</h3>
 

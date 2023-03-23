@@ -17,21 +17,9 @@ export default function Maria() {
                     <section>
                         <h3 className={styles.subtitle}>Servicii si tarife:</h3>
                         <ul>
-                            <li>
-                                200 ron/50 minute - Consiliere psihologica/ Terapie individuala
-                                –
-                                copii si adolescenti
-                            </li>
-                            <li>
-                                200 ron/50 minute - Consiliere scolara si educationala
-                            </li>
-                            <li>
-                                250 ron/75-90 minute - Consiliere parentala
-                            </li>
-                            <li>
-                                300 ron/90 minute - Terapie de familie
-                            </li>
-
+                            <li>Consiliere psihologica/ Terapie individuala – copii si adolescenti - 150 ron/50 minute</li>
+                            <li>Consiliere scolara si educationala - 150 ron/50 minute</li>
+                            <li>Consiliere parentala/ Terapie de familie – 200 RON/90 minute</li>
                         </ul>
 
                         <h3 className={styles.subtitle}>Contact:</h3>
