@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/animo-website/static/css/main.864b349f.css",
-    "main.js": "/animo-website/static/js/main.f84d638c.js",
+    "main.js": "/animo-website/static/js/main.6c3ec417.js",
     "static/js/787.53ca5eba.chunk.js": "/animo-website/static/js/787.53ca5eba.chunk.js",
-    "static/media/vera.jpeg": "/animo-website/static/media/vera.fab8da84e6313228d339.jpeg",
     "static/media/simona1.jpg": "/animo-website/static/media/simona1.4736c9acb5cbdfec7b79.jpg",
     "static/media/ana.jpeg": "/animo-website/static/media/ana.1e1c978a08d1bb08fa01.jpeg",
     "static/media/potato.png": "/animo-website/static/media/potato.3a04ce8820cc86b03188.png",
     "static/media/ioana.jpeg": "/animo-website/static/media/ioana.92b8618ff194c765b7a2.jpeg",
+    "static/media/vera.jpeg": "/animo-website/static/media/vera.8c24f684981e6ba0980f.jpeg",
     "static/media/monica.jpeg": "/animo-website/static/media/monica.01eb85626535927e2a8d.jpeg",
     "static/media/maria.jpeg": "/animo-website/static/media/maria.662748c94801b2b66f52.jpeg",
     "static/media/augustina.jpeg": "/animo-website/static/media/augustina.158b5f454702bf82c463.jpeg",
@@ -21,11 +21,11 @@
     "index.html": "/animo-website/index.html",
     "static/media/main-waves.svg": "/animo-website/static/media/main-waves.fd01cfe2f0340817a0294b0545f1d1d1.svg",
     "main.864b349f.css.map": "/animo-website/static/css/main.864b349f.css.map",
-    "main.f84d638c.js.map": "/animo-website/static/js/main.f84d638c.js.map",
+    "main.6c3ec417.js.map": "/animo-website/static/js/main.6c3ec417.js.map",
     "787.53ca5eba.chunk.js.map": "/animo-website/static/js/787.53ca5eba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.864b349f.css",
-    "static/js/main.f84d638c.js"
+    "static/js/main.6c3ec417.js"
   ]
 }
