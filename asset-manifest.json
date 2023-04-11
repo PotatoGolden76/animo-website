@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/animo-website/static/css/main.864b349f.css",
-    "main.js": "/animo-website/static/js/main.6c3ec417.js",
+    "main.js": "/animo-website/static/js/main.dea73968.js",
     "static/js/787.53ca5eba.chunk.js": "/animo-website/static/js/787.53ca5eba.chunk.js",
     "static/media/simona1.jpg": "/animo-website/static/media/simona1.4736c9acb5cbdfec7b79.jpg",
     "static/media/ana.jpeg": "/animo-website/static/media/ana.1e1c978a08d1bb08fa01.jpeg",
@@ -21,11 +21,11 @@
     "index.html": "/animo-website/index.html",
     "static/media/main-waves.svg": "/animo-website/static/media/main-waves.fd01cfe2f0340817a0294b0545f1d1d1.svg",
     "main.864b349f.css.map": "/animo-website/static/css/main.864b349f.css.map",
-    "main.6c3ec417.js.map": "/animo-website/static/js/main.6c3ec417.js.map",
+    "main.dea73968.js.map": "/animo-website/static/js/main.dea73968.js.map",
     "787.53ca5eba.chunk.js.map": "/animo-website/static/js/787.53ca5eba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.864b349f.css",
-    "static/js/main.6c3ec417.js"
+    "static/js/main.dea73968.js"
   ]
 }
