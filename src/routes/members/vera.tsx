@@ -49,8 +49,7 @@ export default function Vera() {
                             pentru confirmarea/infirmarea unor ipoteze si abordari de lucru si, ulterior
                             pentru a monitoriza procesul. Pentru a radiografia percept ia ta asupra trecutului
                             personal si a identifica schemele de gandire si tiparele de comportament pe care le
-                            accesezi automat in viata de zi cu zi. Evaluarea neurocognitiva a persoanelor varstnice
-                            pentru incadrarea in grad de handicap pt Comisia de Expertiza.
+                            accesezi automat in viata de zi cu zi.
                         </p>
                         <h3 className={styles.subtitle}>Afiliere:</h3>
 

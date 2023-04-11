@@ -44,6 +44,9 @@ export default function Maria() {
                                 <li>
                                     Membru AHPCC Romania (2016)
                                 </li>
+                                <li>
+                                    Membru EFT Romania
+                                </li>
                             </ul>
                         </section>
 
@@ -51,65 +54,15 @@ export default function Maria() {
 
                         <section>
                             <ul>
-                                <li>
-                                    Diploma de
-                                    Master
-                                    -
-                                    Evaluare si Interventie Psihologica
-                                    in Domeniul Educational
-                                    -
-                                    Universitatea
-                                    Bucuresti, Facultatea de Psihologie si
-                                    Stiintele Educatiei
-                                    -
-                                    2018
-                                </li>
-                                <li>
-                                    Diploma de Master
-                                    -
-                                    Psihodiagnoza Cognitiva si
-                                    Consiliere Psihologica
-                                    -
-                                    Universitatea Ecologica
-                                    Bucuresti, Faculta
-                                    tea de Psihologie
-                                    –
-                                    2015
-                                </li>
-                                <li>
-                                    Diploma de Licenta
-                                    –
-                                    Facultatea de Psihologie si Stiintele Educatiei, Specializarea Psihologie,
-                                    Universitatea Bucuresti
-                                    –
-                                    2011
-                                </li>
-                                <li>
-                                    Formare de baza
-                                    -
-                                    Consiliere psihologica cognitiv
-                                    –
-                                    comportamentala
-                                    –
-                                    AHPCC, 2016
-                                </li>
-                                <li>
-                                    Formare complementar
-                                    a
-                                    –
-                                    Terapie sistemica
-                                    –
-                                    cuplu, copil, familie
-                                    –
-                                    ACTF, 2017
-                                </li>
-                                <li>
-                                    Formare complementara
-                                    –
-                                    Terapie de cuplu centrata pe emotii
-                                    –
-                                    ICEEFT, EFT Romania, 2019
-                                </li>
+                                <li>Diploma de Master - Evaluare si Interventie Psihologica in Domeniul Educational - Universitatea</li>
+                                <li>Bucuresti, Facultatea de Psihologie si Stiintele Educatiei - 2018</li>
+                                <li>Diploma de Master - Psihodiagnoza Cognitiva si Consiliere Psihologica - Universitatea Ecologica</li>
+                                <li>Bucuresti, Faculta tea de Psihologie – 2015</li>
+                                <li>Diploma de Licenta – Facultatea de Psihologie si Stiintele Educatiei, Specializarea Psihologie,</li>
+                                <li>Universitatea Bucuresti – 2011</li>
+                                <li>Formare de baza - Consiliere psihologica cognitiv – comportamentala – AHPCC, 2016</li>
+                                <li>Formare complementar a – Terapie sistemica – cuplu, copil, familie – ACTF, 2017</li>
+                                <li>Formare complementara – Terapie de cuplu centrata pe emotii – ICEEFT, EFT Romania, 2019</li>
                             </ul>
                         </section>
 
@@ -117,21 +70,33 @@ export default function Maria() {
 
                         <section>
                             <ul>
-                                <li>
-                                    TERAPIE INDIVIDUALA CENTRATA PE EMOTII: extinderea unui
-                                    model bazat pe atasament
-                                    pentru terapia
-                                    individuala
-                                    –
-                                    EFT Romania, 2019
-                                </li>
-                                <li>
-                                    Terapia centrata pe solutii
-                                    –
-                                    Metoda ”Eu pot”
-                                    –
-                                    Mindhelp, 2019
-                                </li>
+                                <li>Evaluare si Strategii de Interventie in Psihoterapia Copilului si Adolescentului – Asociatia ASIST 2013</li>
+                                <li>Evaluarea Clinica a Copilului – Societatea de Psihoterapie Experientiala din Romania 2013</li>
+                                <li>Gestionarea Situatiilor de Criza din Scoala – Casa Corpului Didactic a Municipiului Bucuresti 2014</li>
+                                <li>Evaluarea si interventia psihologica la copii si adolescenti – Asociatia de Consiliere si Terapie a Familiei 2016</li>
+                                <li>Educatia Rational Emotiva: Aplicatii in Context Clinic – Asociatia de Psihoterapii Cognitive si</li>
+                                <li>Comportamentale din Romania 2016</li>
+                                <li>Terapie Sistemica: Cuplu, Copil, Familie – Asociatia de Consiliere si Terapie a Familiei 2016</li>
+                                <li>Trauma in Early Childhood – MSW, IMH-E IV 2018</li>
+                                <li>Predarea Bazata pe Atasament – PSIRIS 2019</li>
+                                <li>TERAPIE INDIVIDUALA CENTRATA PE EMOTII: extinderea unui model bazat pe atasament pentru terapia individuala – EFT Romania, 2019</li>
+                                <li>Terapia centrata pe solutii – Metoda ”Eu pot” – Mindhelp, 2019</li>
+                                <li>Evaluarea Personalitatii – ARHCRTE 2020-2021</li>
+                            </ul>
+                        </section>
+
+                        <h3 className={styles.subtitle}>Conferinte si Congrese:</h3>
+
+                        <section>
+                            <ul>
+                                <li>Psihoterapia si Conditia Umana – Asociatia de Psihoterapie Integrativa si Psihologie Clinica 2016</li>
+                                <li>Congresul National de Toxicologie – siguranta xenobioticelor si sanatatea omului – provocari actuale 2017</li>
+                                <li>Conferinta Internationala Neuropsihologia Tulburarilor Specifice de Invatare 2017</li>
+                                <li>Psihoterapia si Conditia Umana – Asociatia de Psihoterapie Integrativa si Psihologie Clinica 2018</li>
+                                <li>ADHD-ul la Copii, Adolescenti si Adulti – FPSE 2018</li>
+                                <li>Conferinta Internationala Neuropsihologia si Tulburarile de Limbaj – FPSE 2018</li>
+                                <li>The Cyber Effect – Asociatia EKA 2019</li>
+                                <li>50 Shades of Bullying – FPSE 2019</li>
                             </ul>
                         </section>
                     </AccordionTab>

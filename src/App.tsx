@@ -36,7 +36,7 @@ export default function App() {
           <PowerCard text="Despre Noi" icon={faBookOpen} wave={wave1} height={"80%"} width={"80%"} destination={"/about"} />
           <PowerCard text="Echipa" icon={faPeopleGroup} wave={wave2} height={"80%"} width={"80%"} destination={"/team"} />
           <PowerCard text="Linkuri Utile" icon={faNewspaper} wave={wave3} height={"80%"} width={"80%"} destination={"/articles"} />
-          <PowerCard text="Contact" destination={"/testimonials"}  icon={faMessage} wave={wave1} height={"80%"} width={"80%"}/>
+          <PowerCard text="Contact" destination={"/contact"}  icon={faMessage} wave={wave1} height={"80%"} width={"80%"}/>
 
         </div>
 

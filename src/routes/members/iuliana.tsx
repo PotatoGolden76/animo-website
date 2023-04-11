@@ -43,15 +43,20 @@ export default function Iuliana() {
                         Training, Teambuilding, Cunoasterea si dezvoltarea echipei, Assessment & Development Centers, Recrutare si selectie, Evaluari psihologice ocazionale / periodice, Eliberare avize psihologice medicina muncii,Evaluare resurse umane, Studii organizationale (cultura, climat, satisfactia muncii, motivatie, etc), Elaborare proceduri HR.
                     </p>
                     <p>
-                        Sedinte individuale sau de grup (ca parte a pachetului de wellbeing oferit de companie pentru salariati): Coaching, Dezvoltare personala, Consiliere psihologica,Consilierea carierei
-
+                        Sedinte individuale sau de grup (ca parte a pachetului de wellbeing oferit de companie pentru salariati):
+                        Coaching, Dezvoltare personala, Consiliere psihologica, Consilierea carierei, consultanta in gestionarea
+                        conflictelor / imbunatatirea comunicarii in echipa.
                     </p>
+                    <p>
+                        Pentru tarifele aferente serviciilor organizationale, ma puteti contacta la numarul de telefon de mai jos.
+                    </p><br/>
                     <p>
                         Toate serviciile pot fi oferite atat la cabinet cat si online.
                     </p>
                     <p>
                         Servicii le personalizate pentru organizatii pot fi livrate si la sediul acestora.
                     </p>
+                    
                 </section>
 
 
@@ -59,8 +64,8 @@ export default function Iuliana() {
 
                 <section>
                     <ul>
-                        <li>Telefon, Whatsapp: +40728.725.617</li>
-                        <li>Email: psiholog.scutaru@gmail.com</li>
+                        <li>Telefon: +40728.725.617</li>
+                        <li>Email: <a href="mailto:psiholog.scutaru@gmail.com">psiholog.scutaru@gmail.com</a></li>
                         <li>Social media: <a href="https://www.facebook.com/Scutaru.Iuliana.Cabinet.Individual.Psihologie/">facebook.com/Scutaru.Iuliana.Cabinet.Individual.Psihologie/</a></li>
                     </ul>
                 </section>

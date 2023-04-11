@@ -17,13 +17,12 @@ export default function Augustina() {
 
                     <section>
                         <h3 className={styles.subtitle}>Servicii si tarife:</h3>
-                       <ul>
-                       <li>Consiliere psihologică (adulți și copii) – 200 ron/50 minute</li>
-                       <li>Consiliere dezvoltare personala (adulți și copii) – 200 ron/50 minute</li>
-                       <li>Dezvoltare personală de grup ( copii, adolescenți și adulți) – 200 ron/2 ore</li>
-                       <li>Ateliere pentru copii și adolescenți – 100 ron/50 minute</li>
-                       <li>Consiliere de cuplu și familie – 250 ron/ o oră</li>
-                       </ul>
+                        <ul>
+                            <li>Consiliere psihologică (copii si adolescenti) – 200 ron/50 minute</li>
+                            <li>Consiliere dezvoltare personala (copii si adolescenti) – 200 ron/50 minute</li>
+                            <li>Dezvoltare personală de grup (copii si adolescenti) – 200 ron/2 ore</li>
+                            <li>Ateliere pentru copii si adolescenti – 100 ron/50 minute</li>
+                        </ul>
 
                         <h3 className={styles.subtitle}>Contact:</h3>
 
@@ -86,6 +85,13 @@ export default function Augustina() {
 
                         <section>
                             <ul>
+                                <li>Curs ‘’EXPERIENȚE EMOȚIONALE CORECTIVE ÎN DIVERSE MODALITĂȚI TERAPEUTICE: TERAPIE INDIVIDUALĂ, DE CUPLU ȘI FAMILIE”</li>
+                                <li>Curs “VALUAREA EXPERIENȚIALĂ A RELAȚIEI PĂRINTE-COPIL”</li>
+                                <li>Curs “CONCEPTUALIZAREA CAZULUI ȘI PLANIFICAREA INTERVENȚIEI TERAPEUTICE PRIN JOC”</li>
+                                <li>Curs “INTERVENȚII TERAPEUTICE PRIN JOC DIRECTIV ÎN TERAPIA COPILULUI ȘI A FAMILIEI”</li>
+                                <li>Curs “INTERVENȚII TERAPEUTICE PRIN JOC NON-DIRECTIV ÎN TERAPIA COPILULUI ȘI A FAMILIEI”</li>
+                                <li>Curs “TEHNICI DE AUTOREGLARE ÎN TERAPIA COPIILOR”</li>
+                                <li>Curs “TRAUMA DE DEZVOLTARE LA COPII- EVALUARE ȘI INTERVENȚIE TERAPEUTICĂ”</li>
                                 <li>
                                     Psihoterapii scurte colaborative orientate pe resurse si solutii
                                     -
