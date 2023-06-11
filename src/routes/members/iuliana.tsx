@@ -97,25 +97,17 @@ export default function Iuliana() {
                                     NBCC
                                     -
                                     National Board for Certified Counselors
-                                    (
-                                    din
-                                    2018)
+                                    (din 2018)
                                 </li>
                                 <li>
                                     Membru
-                                    NB
-                                    CC Romania
-                                    (
-                                    din
-                                    201
-                                    8
-                                    )
+                                    NBCC Romania
+                                    (din 2018)
                                 </li>
                                 <li>
                                     Membru
                                     afiliat al Helsinki Brief Therapy Institute
-                                    (
-                                    International Directory of
+                                    (International Directory of
                                     Certified Kids' Skills
                                     Coaches
                                     aici:
@@ -158,22 +150,17 @@ export default function Iuliana() {
                                     SNSPA (Scoala Nationala de Studii
                                     Politice si Administrative)
                                     -
-                                    Facultatea de Management si administr
-                                    are afacerilor, Bucuresti
+                                    Facultatea de Management si administrare afacerilor, Bucuresti
                                     –
-                                    20
-                                    06
+                                    2006
                                 </li>
                                 <li>
                                     Diploma de Licenta
                                     –
-                                    Facultatea de Psihologie si Stiintele Educatiei, Specializarea Psiholo
-                                    gi
-                                    e,
+                                    Facultatea de Psihologie si Stiintele Educatiei, Specializarea Psihologie,
                                     Universitatea Bucuresti
                                     –
-                                    20
-                                    02
+                                    2002
                                 </li>
                                 <li>
                                     Formare de baza
@@ -185,14 +172,7 @@ export default function Iuliana() {
                                     solutii
                                     –
                                     Asociatia Romana de Terapii Scurte Orientate pe Resurse si Solutii (
-                                    A
-                                    RTS &
-                                    C
-                                    ORS
-                                    )
-                                    ,
-                                    20
-                                    19
+                                    ARTS & CORS), 2019
                                 </li>
                                 <li>
                                     Formare complementara
@@ -202,10 +182,8 @@ export default function Iuliana() {
                                     cuplu, copil, familie
                                     –
                                     Asociatia de Consiliere si
-                                    Terapie a Familiei din Romania (ACTF)
-                                    ,
-                                    20
-                                    19
+                                    Terapie a Familiei din Romania (ACTF),
+                                    2019
                                 </li>
                                 <li>
                                     Consultant certificat Rezilienta
@@ -252,14 +230,8 @@ export default function Iuliana() {
                                     Helsinki Brief Therapy Institute, 2020
                                 </li>
                                 <li>
-                                    Interventie, asistenta, consiliere personala si psih
-                                    ologica (
-                                    Tehnicile si testele cvasi
-                                    –
-                                    proiective si
-                                    proiective
-                                    )
-                                    -
+                                    Interventie, asistenta, consiliere personala si psihologica (Tehnicile si testele cvasi–proiective si
+                                    proiective) -
                                     Asociatia Phoenix, 2020
                                 </li>
                                 <li>
@@ -275,9 +247,7 @@ export default function Iuliana() {
                                     Center for Credentialing & Education (CCE) &
                                     National Board of Certified Counselor (NBCC)
                                     -
-                                    North Carolina, USA
-                                    , 201
-                                    8
+                                    North Carolina, USA, 2018
                                 </li>
                                 <li>
                                     Externship
@@ -288,8 +258,7 @@ export default function Iuliana() {
                                     EFT Romania, 2018
                                 </li>
                                 <li>
-                                    Trainer cert
-                                    ificat Persolog Romania
+                                    Trainer certificat Persolog Romania
                                     -
                                     modelul DISC, 2016
                                 </li>
@@ -297,22 +266,17 @@ export default function Iuliana() {
                                     Certificare
                                     Formator
                                     -
-                                    Autoritatea Nationala pentru Calificari din Romania (
-                                    ANC
-                                    )
-                                    , 2015
+                                    Autoritatea Nationala pentru Calificari din Romania (ANC), 2015
                                 </li>
                                 <li>
                                     Certificare
-                                    C
-                                    onsilier Vocational
+                                    Consilier Vocational
                                     -
                                     Autoritatea Nationala pentru Calificari din Romania (ANC),
                                     2015
                                 </li>
                                 <li>
-                                    Certificare Consilier dez
-                                    voltare personala
+                                    Certificare Consilier dezvoltare personala
                                     -
                                     Autoritatea Nationala pentru Calificari din Romania
                                     (ANC), 2015
@@ -323,11 +287,9 @@ export default function Iuliana() {
                                     Mindustries Romania & Praendex Europe SA, Elvetia, 2008
                                 </li>
                                 <li>
-                                    Atestare Metodologia de eva
-                                    luare HOGAN ASSESSMENT SYSTEM
+                                    Atestare Metodologia de evaluare HOGAN ASSESSMENT SYSTEM
                                     -
-                                    Hart Consulting, 200
-                                    5
+                                    Hart Consulting, 2005
                                 </li>
                                 <li>
                                     Certifcare pentru Centru de Evaluare si Dezvoltare (Assessment and Development Center
@@ -336,22 +298,16 @@ export default function Iuliana() {
                                     Assessment and Development Consultants Ltd ADC, 2004
                                 </li>
                                 <li>
-                                    Licentie
-                                    re
+                                    Licentiere
                                     pentru utilizarea si interpretarea a diverse instrumente de evaluare psihologica
                                     pentru: personalitate, interese vocationale,
                                     atentie,
                                     motivatie, IQ,
                                     functii executive, stiluri de
-                                    invatare, tehnici proiective
-                                    , anxietate, depresie, burnout, stress, leade
-                                    rship,
-                                    integritate, stil de
-                                    munca,
-                                    rezilienta
+                                    invatare, tehnici proiective, anxietate, depresie, burnout, stress, leadership,
+                                    integritate, stil de munca, rezilienta
                                     -
-                                    D&D Consultants Grup
-                                    , Cognitrom, Persolog, Psihoproiect, 2015
+                                    D&D Consultants Grup, Cognitrom, Persolog, Psihoproiect, 2015
                                     -
                                     prezent
                                 </li>
@@ -361,8 +317,7 @@ export default function Iuliana() {
                                         <li>
                                             Consiliere psihologica
                                             –
-                                            Terapie scurta colaborativa orientata p
-                                            e resurse si solutii
+                                            Terapie scurta colaborativa orientata pe resurse si solutii
                                             (din 2020)
                                         </li>
                                         <li>

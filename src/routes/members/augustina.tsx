@@ -126,9 +126,7 @@ export default function Augustina() {
                                     IN PSIHOTERAPIE”
                                     -
                                     Institutul de Terapie Familiala si Practica Sistemica
-                                    Areop
-                                    a
-                                    gus
+                                    Areopagus
                                 </li>
                             </ul>
                         </section>

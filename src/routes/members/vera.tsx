@@ -18,8 +18,7 @@ export default function Vera() {
                         <h3 className={styles.subtitle}>Servicii si tarife:</h3>
                         <ul>
                             <li>Consiliere psihologica/ Terapie individuala adulti - 170 ron/50min</li>
-                            <li>Evaluare neurocognitiva varstnici pentru incadrarea in grad de handicap - la domiciliul clientului - 250</li>
-                            <li>ron</li>
+                            <li>Evaluare neurocognitiva varstnici pentru incadrarea in grad de handicap - la domiciliul clientului - 250 ron</li>
                             <li>Aviz psihologic - asistent maternal, asistent personal, etc. - 150 ron</li>
                             <li>Aviz psihologic - obtinere permis ambarcatiune cu motor si velier.- 150 ron</li>
                             <li>Aviz psihologic - obtinere permis categ A, B. - 100 ron</li>
@@ -95,16 +94,14 @@ export default function Vera() {
                                     Diploma de
                                     Licenta
                                     –
-                                    Universitatea de Psihologie si Sociologie
-                                    ,
+                                    Universitatea de Psihologie si Sociologie,
                                     Specializarea Psihologie
                                     Bucuresti
                                     -
                                     2009
                                 </li>
                                 <li>
-                                    Formare complementar
-                                    a
+                                    Formare complementara
                                     -
                                     Psihologia Muncii, Organizationala
                                     si Transporturi APTMS
@@ -154,10 +151,9 @@ export default function Vera() {
                                 </li>
                                 <li>
                                     Evaluarea
-                                    si intervent
-                                    ia sistemica
+                                    si interventia sistemica
                                     in adictii
-                                    –psihoterapia dependentei si codependentei
+                                    – psihoterapia dependentei si codependentei
                                     –
                                     Human Center 2022
                                 </li>

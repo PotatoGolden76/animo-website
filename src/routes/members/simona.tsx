@@ -115,10 +115,7 @@ export default function Simona() {
                                 <li>
                                     Diploma de Licenta
                                     –
-                                    Fa
-                                    cultatea de Psihologie si Stiintele Educatiei, Specializarea Psiholo
-                                    gi
-                                    e,
+                                    Facultatea de Psihologie si Stiintele Educatiei, Specializarea Psihologie,
                                     Universitatea Bucuresti
                                     –
                                     2013
@@ -134,10 +131,7 @@ export default function Simona() {
                                 <li>
                                     Formare de baza
                                     -
-                                    Consili
-                                    ere psihologica cognitiv
-                                    –
-                                    comportamentala
+                                    Consiliere psihologica cognitiv–comportamentala
                                     –
                                     AHPCC, 2016
                                 </li>
@@ -173,8 +167,7 @@ export default function Simona() {
                                     Discernment Counselling – American Association for Marriage and Family Therapy – februarie 2023
                                 </li>
                                 <li>
-                                    „Eval
-                                    uarea si interventia sistemica in adictii
+                                    „Evaluarea si interventia sistemica in adictii
                                     –
                                     psihoterapia dependentei si codependentei”
                                     -
@@ -192,10 +185,7 @@ export default function Simona() {
                                 </li>
                                 <li>
                                     Violenta in cuplu si abordarea
-                                    Terapiei Centrat
-                                    e
-                                    p
-                                    e
+                                    Terapiei Centrate pe
                                     Emotii
                                     –
                                     EFT Romania, 2021
@@ -204,15 +194,12 @@ export default function Simona() {
                                     Trauma si dragonii sai: lucrul cu trauma
                                     in
                                     Terapia Centrata
-                                    p
-                                    e Emotii
+                                    pe Emotii
                                     –
                                     EFT Romania, 2021
                                 </li>
                                 <li>
-                                    Terapeutul intre auto si co
-                                    -
-                                    reglare
+                                    Terapeutul intre auto si co-reglare
                                     –
                                     EFT Romania, 2021
                                 </li>
@@ -243,8 +230,7 @@ export default function Simona() {
                                 </li>
                                 <li>
                                     Metode
-                                    s
-                                    i tehnici interactive de autocunoastere si
+                                    si tehnici interactive de autocunoastere si
                                     dezvoltare personala utilizate in lucrul cu copii si
                                     adolescenti
                                     –
@@ -296,14 +282,12 @@ export default function Simona() {
                         </p>
 
                         <p>
-                            In situatii justificate se pot apli
-                            ca reduceri la tarifele afisate
+                            In situatii justificate se pot aplica reduceri la tarifele afisate
                         </p>
 
                         <p>
                             Toate serviciile pot fi oferite
-                            atat la cabinet cat si online
-                            .
+                            atat la cabinet cat si online.
                         </p>
                     </AccordionTab>
                 </Accordion>

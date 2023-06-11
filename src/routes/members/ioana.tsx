@@ -96,8 +96,7 @@ export default function Ioana() {
                                     (2019)
                                 </li>
                                 <li>
-                                    Training “Abordrea ter
-                                    apeutica a tulburarilor cauzate de abuzul de substante”.
+                                    Training “Abordrea terapeutica a tulburarilor cauzate de abuzul de substante”.
                                     –
                                     Asociatia Catharsis
                                     2019
@@ -117,8 +116,7 @@ export default function Ioana() {
                                 <li>
                                     Formare complementara
                                     –
-                                    Terapie sistemica: culpu, copil, famil
-                                    ie
+                                    Terapie sistemica: culpu, copil, familie
                                     –
                                     (2016
                                     -
@@ -129,9 +127,7 @@ export default function Ioana() {
                                     Diploma de
                                     Master
                                     “
-                                    Psihoterapie Cognitiv
-                                    –
-                                    Comportamentala
+                                    Psihoterapie Cognitiv–Comportamentala
                                     ”
                                     –
                                     Universitatea Titu
@@ -144,8 +140,7 @@ export default function Ioana() {
                                 <li>
                                     Curs Formator
                                     -
-                                    Acreditat Ministerul muncii, familiei si protectiei soci
-                                    ale, (2015)
+                                    Acreditat Ministerul muncii, familiei si protectiei sociale, (2015)
                                 </li>
                                 <li>
                                     Diploma de Licenta “Facultatea de Psihologie si Asistenta sociala”
@@ -196,8 +191,7 @@ export default function Ioana() {
                                     Workshop
                                     -
                                     Tratamentul tulburarii de personalitate borderline. Introducere in terapia
-                                    comportamentala dialectica (
-                                    2019)
+                                    comportamentala dialectica (2019)
                                 </li>
 
                                 <li>

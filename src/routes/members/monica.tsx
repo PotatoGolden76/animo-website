@@ -29,8 +29,7 @@ export default function Monica() {
                                 AVIZ PSIHOLOGIC (voluntariat isu/smurd/igsu, plasament familial, adoptie, instituire tutela,
                                 insotitor/asistent personal, asistent maternal, FIV cuplu (fertilizare in vitro) - 150 ron/50 minute</li>
                             <li>
-                                Consiliere psihologica/Psihoterapie de scurta durata (copii si adulti)/Psihoterapie cognitiv-
-                                comportamentala - 150 ron/50 minute</li>
+                                Consiliere psihologica/Psihoterapie de scurta durata (copii si adulti) - 150 ron/50 minute</li>
                             <li>
                                 Dezvoltare personala copii/adolescenti - 100 ron/1-2 ore</li>
                         </ul>
@@ -109,7 +108,7 @@ export default function Monica() {
                                     Conferinta Nationala „Aplicatii practice in Dezvoltarea Psihologiei” – editia a IX-a 23-24 noiembrie 2019, Bucuresti
                                 </li>
                                 <li>
-                                    Conferinta cu participare internationala – editia a XI a – Psihotrauma – Punti intre teorii si aplicatii practice, 6 – 9 aprilie 2017, Brasov
+                                    Conferinta cu participare internationala – editia a XI a – Psihotrauma – Punti intre teorii si aplicatii practice, 6–9 aprilie 2017, Brasov
                                 </li>
                             </ul>
                         </section>
@@ -120,7 +119,7 @@ export default function Monica() {
                             <ul>
                                 <li>
                                     “The concept of neurosis in classical psychiatric, psychodynamic and psychoanalytic sense”. M. Stănică, R.A.J. Ramirez (2019). În
-                                    volumul Psychodynamic Psychiatry – Clinical Theories. Pag. 100 – 120. Beau Bassin 71504, Mauritius: Editura LAP LAMBERT
+                                    volumul Psychodynamic Psychiatry – Clinical Theories. Pag. 100–120. Beau Bassin 71504, Mauritius: Editura LAP LAMBERT
                                     Academic Publishing. ISBN: 978-620-0-31198-6
                                 </li>
                                 <li>
@@ -128,11 +127,11 @@ export default function Monica() {
                                 </li>
                                 <li>
                                     “Emoționalitate înaltă și substrat pulsional. Transgeneraționalul în schizofrenie”. E.B. Dinea, L.M. Stanciu, M. Stănică (Raportaru)
-                                    (2018). În volumul Psihiatrie psihodinamică – Studii de caz. Pag. 168 – 184. București: Editura Universitară. ISBN: 978-606-28-0803-7.
+                                    (2018). În volumul Psihiatrie psihodinamică – Studii de caz. Pag. 168–184. București: Editura Universitară. ISBN: 978-606-28-0803-7.
                                 </li>
                                 <li>
                                     “Actualitatea conceptului de psihoză isterică”, S. Trifu, M. Stănică, D. Andronache, A.M. Gutt (2017). În volumul Psihotrauma – Punți
-                                    între teorii și aplicații practice. Pag. 147 – 155. București: Editura Universitară. ISBN: 978 – 606 – 28 – 0577 – 7.
+                                    între teorii și aplicații practice. Pag. 147–155. București: Editura Universitară. ISBN: 978–606–28–0577–7.
                                 </li>
                             </ul>
                         </section>
