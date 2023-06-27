@@ -8,7 +8,7 @@ import ioana from '../assets/profiles/ioana.jpeg';
 import monica from '../assets/profiles/monica.jpeg';
 import augustina from '../assets/profiles/augustina.jpeg';
 import ana from '../assets/profiles/ana.jpeg';
-import maria from '../assets/profiles/maria.jpeg';
+import maria from '../assets/profiles/maria.jpg';
 import iuliana from '../assets/profiles/iuliana.jpeg';
 import vera from '../assets/profiles/vera.jpeg';
 import { Link } from 'react-router-dom';

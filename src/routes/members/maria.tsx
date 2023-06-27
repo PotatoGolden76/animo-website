@@ -3,7 +3,7 @@ import Footer from "../../components/footer";
 import Header from "../../components/header";
 
 import styles from "../../styles/member.module.scss";
-import image from "../../assets/profiles/maria.jpeg";
+import image from "../../assets/profiles/maria.jpg";
 import { Accordion, AccordionTab } from 'primereact/accordion';
 
 export default function Maria() {

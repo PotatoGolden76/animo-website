@@ -1,7 +1,7 @@
 {
   "name": "website-revamp",
   "version": "0.1.0",
-  "homepage": "https://potatogolden76.github.io/animo-website",
+  "homepage": "https://centrul-animo.com/",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.2.0",
