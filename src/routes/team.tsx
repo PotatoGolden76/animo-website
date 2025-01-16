@@ -7,6 +7,7 @@ import simona from '../assets/profiles/simona1.jpg';
 import ioana from '../assets/profiles/ioana.jpeg';
 import monica from '../assets/profiles/monica.jpeg';
 import augustina from '../assets/profiles/augustina.jpeg';
+import mihaela from '../assets/profiles/mihaela.jpeg';
 import ana from '../assets/profiles/ana.jpeg';
 import maria from '../assets/profiles/maria.jpg';
 import iuliana from '../assets/profiles/iuliana.jpeg';
@@ -48,17 +49,17 @@ export default function Team() {
             </h2>
           </Link>
 
+          <Link to="/members/mihaela" className={styles.picCard}>
+            <img src={mihaela} alt="Mihaela Raduta" />
+            <h2>
+              Monica Stanica
+            </h2>
+          </Link>
+
           <Link to="/members/maria" className={styles.picCard}>
             <img src={maria} alt="Maria Spataru" />
             <h2>
               Maria Spataru
-            </h2>
-          </Link>
-
-          <Link to="/members/augustina" className={styles.picCard}>
-            <img src={augustina} alt="Augustina Elena Purda" />
-            <h2>
-              Augustina Elena Purda
             </h2>
           </Link>
 
@@ -80,6 +81,13 @@ export default function Team() {
             <img src={iuliana} alt="Iuliana Scutaru" />
             <h2>
               Iuliana Scutaru
+            </h2>
+          </Link>
+
+          <Link to="/members/augustina" className={styles.picCard}>
+            <img src={augustina} alt="Augustina Elena Purda" />
+            <h2>
+              Augustina Elena Purda
             </h2>
           </Link>
 

@@ -82,6 +82,8 @@ export default function Maria() {
                                 <li>TERAPIE INDIVIDUALA CENTRATA PE EMOTII: extinderea unui model bazat pe atasament pentru terapia individuala – EFT Romania, 2019</li>
                                 <li>Terapia centrata pe solutii – Metoda ”Eu pot” – Mindhelp, 2019</li>
                                 <li>Evaluarea Personalitatii – ARHCRTE 2020-2021</li>
+                                <li>Specializare in psihonutritie - SmartPsi - 2024</li>
+                                <li>Competente primare in implementarea unui stil de viata sanatos - UBB Cluj - 2025</li>
                             </ul>
                         </section>
 

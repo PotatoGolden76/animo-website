@@ -1,6 +1,7 @@
 @import "./_variables.scss";
 
 .infoContainer {
+    min-height: 70vh;
     display: flex;
     flex-direction: column;
     align-items: center;

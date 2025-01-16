@@ -20,7 +20,7 @@ import Maria from './routes/members/maria';
 import Iuliana from './routes/members/iuliana';
 import Vera from './routes/members/vera';
 import Ana from './routes/members/ana';
-import Contact from './routes/contact';
+import Mihaela from "./routes/members/mihaela";
 
 const root = ReactDOM.createRoot(
   document.getElementById('root') as HTMLElement
@@ -34,10 +34,10 @@ root.render(
       <Route path="/about" element={<About />} />
       <Route path="/team" element={<Team />} />
       <Route path="/articles" element={<Articles />} />
-      <Route path="/contact" element={<Contact />} />
       <Route path="/testimonials" element={<NotFound />} />
 
       <Route path="/members/simona" element={<Simona />} />
+      <Route path="/members/mihaela" element={<Mihaela />} />
       <Route path="/members/ioana" element={<Ioana />} />
       <Route path="/members/monica" element={<Monica />} />
       <Route path="/members/augustina" element={<Augustina />} />

@@ -23,13 +23,11 @@ export default function Simona() {
                     <section>
                         <h3 className={styles.subtitle}>Servicii si tarife:</h3>
                         <ul>
-                            <li>Consiliere psihologica/Terapie individuala adulti si adolescenti - 200 ron/50 minute</li>
-                            <li>Terapie de cuplu si familie - 300 ron/75-90 minute</li>
-                            <li>Terapie de cuplu (limba engleza) - 350 ron/75-90 minute</li>
-                            <li>Consiliere de discernamant (pentru cupluri aflate in pragul divortului) – 400 lei/1 sedinta</li>
-                            <li>Grupuri de dezvoltare personala/suport adulti si adolescenti - 200 ron/3 ore</li>
-                            <li>Workshopuri psihoeducatie si socializare - 150 ron/sesiune/pers</li>
-                            Toate serviciile pot fi oferite la cabinet sau online, pe Google Meet
+                            <li>Consiliere psihologica/Terapie individuala adulti - 250 ron/50 minute</li>
+                            <li>Terapie de cuplu si familie - 350 ron/75-90 minute</li>
+                            <li>Consiliere de discernamant (pentru cupluri aflate in pragul divortului) – 500 lei/1 sedinta (2h30)</li>
+                            <li>Grupuri de dezvoltare personala adulti/Workshop-uri - 200 ron/sesiune</li>
+                            Toate serviciile pot fi oferite la cabinet sau online, pe Google Meet/Hilio
                         </ul>
                     </section>
 
@@ -42,7 +40,7 @@ export default function Simona() {
                 <section>
                     <ul>
                         <li>Telefon, Whatsapp: +40743.168.491</li>
-                        <li>Email: simona@centrulanimo.com</li>
+                        <li>Email: simocioi@gmail.com</li>
                         <li>Site: <a target="_blank" href="https://pastiladepsihologie.com/">pastiladepsihologie.com</a></li>
                         <li>LinkedIn: <a target="_blank" href="https://www.linkedin.com/in/simonamocioi/">linkedin.com/in/simonamocioi</a></li>
                         <li>Facebook: <a target="_blank" href="https://www.facebook.com/psiholog.mocioi">facebook.com/psiholog.mocioi</a></li>
@@ -152,6 +150,9 @@ export default function Simona() {
                                     –
                                     ICEEFT, EFT Romania, 2018
                                 </li>
+                                <li>
+                                    Psihoterapie sistemica centrata pe emotii – 2022
+                                </li>
                             </ul>
                         </section>
 
@@ -159,6 +160,9 @@ export default function Simona() {
 
                         <section>
                             <ul>
+                                <li>
+                                    Competente primare in implementarea unui stil de viata sanatos - UBB Cluj - 2025
+                                </li>
                                 <li>
                                     Couple’s therapy and Borderline Personality Disorder – American Association for Marriage and Family
                                     Therapy – februarie 2023
@@ -278,7 +282,7 @@ export default function Simona() {
                         </p>
 
                         <p>
-                            Toate serviciile pot fi oferite atât la cabinet cat și online, in limba romana si/sau in limba engleza.
+                            Toate serviciile pot fi oferite atât la cabinet cat și online.
                         </p>
 
                         <p>
