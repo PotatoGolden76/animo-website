@@ -17,10 +17,7 @@ export default function Ana() {
                     <section>
                         <h3 className={styles.subtitle}>Servicii si tarife:</h3>
                         <ul>
-                            <li>Consiliere pentru Dezvoltare Personala (Life Coaching) - 250 ron/50min</li>
-                            <li>Training Comunicare - 1000 ron/4 sedinte</li>
-                            <li>Consiliere vocationala - 250 ron</li>
-                            <li>Ateliere scriere creativa / academica (copii si adolescenti) - 150 lei/sedinta 90 min - minim 4 participanti</li>
+                            <li>Psihoterapie și consiliere psihologică - 250 ron/60min</li>
                         </ul>
                     </section>
                     <img src={image} alt="Ana Maria Vulpescu" />
@@ -38,34 +35,31 @@ export default function Ana() {
                 <Accordion className={styles.accHeader} >
                     <AccordionTab header="Despre Mine ►">
 
-                        <h3 className={styles.subtitle}>Afiliere:</h3>
-
-                        <section>
-                            <ul>
-                                <li>
-                                    Cercetator la Memory Lab, Facultatea de Psihologie si Stiintele Educatiei, Universitatea
-                                    Bucuresti
-                                </li>
-                            </ul>
-                        </section>
-
                         <h3 className={styles.subtitle}>Studii:</h3>
 
                         <section>
                             <ul>
                                 <li>
-                                    Studii Masterale – Psihologie Organizationala - Facultatea de Psihologie si Stiintele Educatiei,
-                                    Universitatea Bucuresti
+                                    Studii Masterale – Psihologia traumei – evaluare clinică și intervenție terapeutică, Facultatea de
+                                    Psihologie si Științele Educației, Universitatea din București
                                 </li>
                                 <li>
-                                    Studii Postuniversitare – Psihologie Diplomatica si Relatii Internationale
+                                    Studii Masterale – Psihologie educațională și consiliere psihologică, Facultatea de Psihologie si Științele
+                                    Educației, Universitatea din București
                                 </li>
                                 <li>
-                                    Facultatea de Psihologie si Stiintele Educatiei, Specializarea Psihologie, Universitatea Bucuresti
+                                    Studii Masterale – Psihologie Organizațională - Facultatea de Psihologie si Științele Educației,
+                                    Universitatea din București;
                                 </li>
                                 <li>
-                                    Facultatea de Comunicare si Relatii Publice, Profilul Stiinte ale Comunicarii, Scoala Nationala de Studii
-                                    Politice si Administrative
+                                    Studii Postuniversitare – Psihologie aplicată în Diplomație și Relații Internaționale
+                                </li>
+                                <li>
+                                    Facultatea de Psihologie și Științele Educației, Specializarea Psihologie, Universitatea din București
+                                </li>
+                                <li>
+                                    Facultatea de Comunicare și Relații Publice, Specializarea Științe ale Comunicării, Școala Națională de
+                                    Studii Politice și Administrative
                                 </li>
                             </ul>
                         </section>
@@ -75,56 +69,34 @@ export default function Ana() {
                         <section>
                             <ul>
                                 <li>
-                                    Editor carte literara – cu experienta de peste 15 ani – editor si coordinator colectia de carte
-                                    “Biblioteca pentru toti” – Jurnalul National
+                                    Psihoterapie adleriană
                                 </li>
                                 <li>
-                                    Formator acreditat ANC – Training Romania, 2020
+                                    Terapia traumei
                                 </li>
                                 <li>
-                                    Consilier Dezvoltare Personala – Centrul Confident, 2019
+                                    Psiholog clinician, educațional, organizațional
                                 </li>
                                 <li>
-                                    Consiliere vocationala - Centrul Confident, 2019
+                                    Formare complementară - Terapie centrată pe emoții
                                 </li>
                                 <li>
-                                    Lucrator prin arte combinate - Centrul Confident, 2020
+                                    Școala de Iarnă de Psihoterapie Pozitivă
                                 </li>
                                 <li>
-                                    Course: Interpersonal Relationships, University of North Texas, Denton, Texas
+                                    Curs facilitator HOLD ME TIGHT – LET ME GO pentru familii cu adolescenți – EFT Romania
                                 </li>
                                 <li>
-                                    Scoala de Iarna de Psihoterapie Pozitiva, 2022 (https://positum.ro/2022/01/scoala-de-iarna-ppt-2022/)
-                                </li>
-                                <li>
-                                    Atelier de terapie individuala centrata pe emotii, lucrul cu clienti dificili
-                                </li>
-                                <li>
-                                    ”Blocaje in faclitarea experientelor emotionale corective”
-                                </li>
-                                <li>
-                                    ”Experiente emotionale corective prin punerea in scena in terapia de cuplu"
-                                </li>
-                                <li>
-                                    Curs facilitator HOLD ME TIGHT – LET ME GO pentru familii cu adolescenti – EFT Romania
-                                </li>
-                                <li>
-                                    Formare complementara - Terapie individuala centrata pe emotii – Externship + Core skills
-                                </li>
-                                <li>
-                                    EFT - Core Skills Plus (Sinele Terapeutului)
-                                </li>
-                                <li>
-                                    ”Experiente emotionale corective in diverse modalitati terapeutice: terapie individuala, de cuplu si de
-                                    familie ”
+                                    „Experiențe emoționale corective în diverse modalități terapeutice: terapie individuala, de cuplu si de
+                                    familie”
                                 </li>
                                 <li>
                                     „Transformation Power of Affect: Emotion Focused Therapy, workshop formativ – Leslie Greenberg,
-                                    Institutul de Psihoterape Experientiala Focalizata pe Emotii
+                                    Institutul de Psihoterapie Experiențială Focalizată pe Emoții
                                 </li>
                                 <li>
-                                    Terapia de urgenta bazata pe neurostiinta emotiei, cognitiei si somaticii” - Fundatia „The Wellbeing
-                                    Planet”
+                                    Coordonator de proiecte culturale și educaționale și editor de carte literară - experiență de peste 15 ani;
+                                    Editor și coordonator al colecțiilor de carte „Biblioteca pentru toți” și „Nobel” – Jurnalul Național
                                 </li>
                             </ul>
                         </section>

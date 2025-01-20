@@ -17,12 +17,12 @@ export default function Vera() {
                     <section>
                         <h3 className={styles.subtitle}>Servicii si tarife:</h3>
                         <ul>
-                            <li>Consiliere psihologica/ Terapie individuala adulti - 170 ron/50min</li>
-                            <li>Evaluare neurocognitiva varstnici pentru incadrarea in grad de handicap - la domiciliul clientului - 250 ron</li>
-                            <li>Aviz psihologic - asistent maternal, asistent personal, etc. - 150 ron</li>
-                            <li>Aviz psihologic - obtinere permis ambarcatiune cu motor si velier.- 150 ron</li>
-                            <li>Aviz psihologic - obtinere permis categ A, B. - 100 ron</li>
-                            <li>Aviz psihologic - angajare( medicina muncii) - 100 ron</li>
+                            <li>Consiliere psihologica/ Terapie individuala adulti - 200 ron/50min</li>
+                            <li>Evaluare neurocognitiva varstnici pentru incadrarea in grad de handicap - la domiciliul clientului - 300 ron</li>
+                            <li>Aviz psihologic - asistent maternal, asistent personal, etc. - 200 ron</li>
+                            <li>Aviz psihologic - obtinere permis ambarcatiune cu motor si velier.- 200 ron</li>
+                            <li>Aviz psihologic - obtinere permis categ A, B. - 200 ron</li>
+                            <li>Aviz psihologic - angajare( medicina muncii) - 200 ron</li>
                         </ul>
                     </section>
                     <img src={image} alt="Vera Constantinescu" />
