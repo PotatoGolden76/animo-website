@@ -49,13 +49,6 @@ export default function Team() {
             </h2>
           </Link>
 
-          <Link to="/members/mihaela" className={styles.picCard}>
-            <img src={mihaela} alt="Mihaela Raduta" />
-            <h2>
-              Monica Stanica
-            </h2>
-          </Link>
-
           <Link to="/members/maria" className={styles.picCard}>
             <img src={maria} alt="Maria Spataru" />
             <h2>
@@ -70,7 +63,13 @@ export default function Team() {
             </h2>
           </Link>
 
-          
+
+          <Link to="/members/mihaela" className={styles.picCard}>
+            <img src={mihaela} alt="Mihaela Raduta" />
+            <h2>
+              Mihaela Raduta
+            </h2>
+          </Link>
         </div>
 
         <hr />

@@ -4,12 +4,12 @@ import Header from "../../components/header";
 
 import styles from "../../styles/member.module.scss";
 import image from "../../assets/profiles/iuliana.jpeg";
-import { Accordion, AccordionTab } from 'primereact/accordion';
+import {Accordion, AccordionTab} from 'primereact/accordion';
 
 export default function Iuliana() {
     return (
         <>
-            <Header />
+            <Header/>
             <div className={classNames("container", styles.container)}>
                 <h1>Iuliana Scutaru</h1>
 
@@ -19,20 +19,24 @@ export default function Iuliana() {
                     <section>
                         <h3 className={styles.subtitle}>Servicii si tarife:</h3>
                         <ul>
-                            <li>Consiliere psihologică – adulți - 200 ron/ 50 minute</li>
-                            <li>Coaching - 250 ron / 50 minute</li>
-                            <li>Consiliere psihologică – copii și adolescenți - 200 ron/ 45 minute</li>
-                            <li>Consiliere parentala - 250 ron / 50 minute</li>
-                            <li>Consilierea carierei / Consiliere vocationala - 200 ron/ 45 minute</li>
-                            <li>Consiliere scolara - 200 ron/ 45 minute</li>
-                            <li>Consiliere dezvoltare personala – adulți - 200 ron/ 45 minute</li>
-                            <li>Consiliere dezvoltare personala – copii și adolescenți - 200 ron/ 45 minute</li>
-                            <li>Consiliere / Terapie sistemica (familie / cuplu) - 250 ron/ 75-90 minute</li>
-                            <li>Grupuri de dezvoltare personala /suport – adulti, adolescenți, copii - 200 ron/3 ore</li>
-                            <li>Workshopuri dezvoltare personala, psihoeducație, socializare - 150 – 750 ron/ sesiune/ persoana (in functie de instrumentele utilizate)</li>
+                            <li>Consiliere psihologică – adulți - 250 ron/ 50 minute</li>
+                            <li>Terapie de cuplu / familie - 330 ron/ 75-90 minute</li>
+                            <li>Consiliere psihologică – copii și adolescenți - 250 ron/ 45 minute</li>
+                            <li>Consiliere parentală - 300 ron / 50 minute</li>
+                            <li>Coaching - 280 ron / 40 minute</li>
+                            <li>Consilierea carierei / Consiliere vocațională - 250 ron/ 45 minute</li>
+                            <li>Consiliere școlară - 250 ron/ 45 minutee</li>
+                            <li>Consiliere dezvoltare personală – adulți - 250 ron/ 45 minute</li>
+                            <li>Consiliere dezvoltare personală – copii și adolescenți - 250 ron/ 45 minute</li>
+                            <li>Grupuri de dezvoltare personală /suport – adulți, adolescenți, copii - 200 ron/3 ore
+                            </li>
+                            <li>Workshopuri dezvoltare personală, psihoeducație, autocunoaștere, socializare - 150 – 450
+                                ron/ sesiune/ persoană (in functie de instrumentele utilizate, pot exista costuri
+                                suplimentare)
+                            </li>
                         </ul>
                     </section>
-                    <img src={image} alt="Iuliana Scutaru" />
+                    <img src={image} alt="Iuliana Scutaru"/>
                 </div>
 
                 <section>
@@ -40,23 +44,27 @@ export default function Iuliana() {
                         <b>Servicii personalizate pentru organizatii:</b>
                     </p>
                     <p>
-                        Training, Teambuilding, Cunoasterea si dezvoltarea echipei, Assessment & Development Centers, Recrutare si selectie, Evaluari psihologice ocazionale / periodice, Eliberare avize psihologice medicina muncii,Evaluare resurse umane, Studii organizationale (cultura, climat, satisfactia muncii, motivatie, etc), Elaborare proceduri HR.
+                        Training, Teambuilding, Cunoasterea si dezvoltarea echipei, Assessment & Development Centers,
+                        Recrutare si selectie, Evaluari psihologice ocazionale / periodice, Eliberare avize psihologice
+                        medicina muncii,Evaluare resurse umane, Studii organizationale (cultura, climat, satisfactia
+                        muncii, motivatie, etc), Elaborare proceduri HR.
                     </p>
                     <p>
-                        Sedinte individuale sau de grup (ca parte a pachetului de wellbeing oferit de companie pentru salariati):
-                        Coaching, Dezvoltare personala, Consiliere psihologica, Consilierea carierei, consultanta in gestionarea
-                        conflictelor / imbunatatirea comunicarii in echipa.
+                        Sedinte individuale sau de grup (ca parte a pachetului de wellbeing oferit de companie pentru
+                        salariati): Coaching, Dezvoltare personala, Consiliere psihologica, Consilierea carierei,
+                        consultanta in gestionarea conflictelor / imbunatatirea comunicarii in echipa.
                     </p>
                     <p>
-                        Pentru tarifele aferente serviciilor organizationale, ma puteti contacta la numarul de telefon de mai jos.
+                        Pentru tarifele aferente serviciilor organizationale, ma puteti contacta la numarul de telefon
+                        de mai jos.
                     </p><br/>
                     <p>
                         Toate serviciile pot fi oferite atat la cabinet cat si online.
                     </p>
                     <p>
-                        Servicii le personalizate pentru organizatii pot fi livrate si la sediul acestora.
+                        Serviciile personalizate pentru organizatii pot fi livrate si la sediul acestora.
                     </p>
-                    
+
                 </section>
 
 
@@ -66,23 +74,24 @@ export default function Iuliana() {
                     <ul>
                         <li>Telefon: +40728.725.617</li>
                         <li>Email: <a href="mailto:psiholog.scutaru@gmail.com">psiholog.scutaru@gmail.com</a></li>
-                        <li>Social media: <a href="https://www.facebook.com/Scutaru.Iuliana.Cabinet.Individual.Psihologie/">facebook.com/Scutaru.Iuliana.Cabinet.Individual.Psihologie/</a></li>
+                        <li>Social media: <a
+                            href="https://www.facebook.com/Scutaru.Iuliana.Cabinet.Individual.Psihologie/">facebook.com/Scutaru.Iuliana.Cabinet.Individual.Psihologie/</a>
+                        </li>
                     </ul>
                 </section>
 
-                <Accordion className={styles.accHeader} >
+                <Accordion className={styles.accHeader}>
                     <AccordionTab header="Despre Mine ►">
                         <p>
                             Dezvolt oameni de la A la Z si-mi place sa fac asta. Vad partea buna a fiecarei persoane
-                            intalnite si ma bucur mereu cand observ un progres la cei cu care lucrez.
-                            Consider ca fiecare in parte este plin de resurse si rolul meu este sa-i
-                            sprijin pe cei care doresc sa-si regaseasca sau sa-si identifice acele resurse
-                            interioare ce-i conduc catre gasirea unei solutii care-i ajuta sa treaca
-                            de o perioada dificila. De asemenea, dezvolt organizatii, bazandu-ma pe
-                            valorificarea experientei profesionale in psihologie si resurse umane,
-                            respectiv training si educatie in vederea dezvoltarii personale / profesionale a
-                            clientilor si / sau a eficientizarii proceselor si functiilor capitalului uman intr-o
-                            organizatie.
+                            intalnite si ma bucur mereu cand observ un progres la cei cu care lucrez. Consider ca
+                            fiecare in parte este plin de resurse si rolul meu este sa-i sprijin pe cei care doresc
+                            sa-si regaseasca sau sa-si identifice acele resurse interioare ce-i conduc catre gasirea
+                            unei solutii care-i ajuta sa treaca de o perioada dificila. De asemenea, dezvolt
+                            organizatii, bazandu-ma pe valorificarea experientei profesionale in
+                            psihologie si resurse umane, respectiv training si educatie in vederea dezvoltarii personale
+                            / profesionale a clientilor si / sau a eficientizarii proceselor si functiilor capitalului
+                            uman intr-o organizatie.
                         </p>
 
                         <h3 className={styles.subtitle}>Afiliere:</h3>
@@ -90,20 +99,22 @@ export default function Iuliana() {
                         <section>
                             <ul>
                                 <li>
-                                    Membru al Colegiului Psihologilor din Romania (2015)
+                                    Membru al Colegiului Psihologilor din Romania (2014)
                                 </li>
                                 <li>
-                                    Membru
-                                    NBCC
-                                    -
-                                    National Board for Certified Counselors
-                                    (din 2018)
+                                    Membru al Asociației Române de Terapii Scurte și Consultanță Orientată pe Resurse și
+                                    Soluții/ ARTS&CORS (din 2020)
                                 </li>
                                 <li>
-                                    Membru
-                                    NBCC Romania
-                                    (din 2018)
+                                    Membru NBCC - National Board for Certified Counselors (din 2018)
                                 </li>
+                                <li>
+                                    Membru NBCC Romania (din 2018)
+                                </li>
+                                <li>Membru ICEEFT (INTERNATIONAL CENTRE FOR EXCELLENCE IN EMOTIONALLY FOCUSED THERAPY)
+                                    (din 2020)
+                                </li>
+                                <li>Membru EFT Romania (din 2020)</li>
                                 <li>
                                     Membru
                                     afiliat al Helsinki Brief Therapy Institute
@@ -128,6 +139,10 @@ export default function Iuliana() {
 
                         <section>
                             <ul>
+                                <li>
+                                    Competente primare in implementarea unui stil de viata sanatos - UBB Cluj –
+                                    2024-2025
+                                </li>
                                 <li>
                                     Diploma de
                                     Master
@@ -173,6 +188,9 @@ export default function Iuliana() {
                                     –
                                     Asociatia Romana de Terapii Scurte Orientate pe Resurse si Solutii (
                                     ARTS & CORS), 2019
+                                </li>
+                                <li>Formare de bază - Psihoterapie sistemică centrată pe emoții (PFSEFT) - Asociația de
+                                    Psihoterapie Centrată pe Emoții pentru Cuplu și Familie, 2024
                                 </li>
                                 <li>
                                     Formare complementara
@@ -230,12 +248,14 @@ export default function Iuliana() {
                                     Helsinki Brief Therapy Institute, 2020
                                 </li>
                                 <li>
-                                    Interventie, asistenta, consiliere personala si psihologica (Tehnicile si testele cvasi–proiective si
+                                    Interventie, asistenta, consiliere personala si psihologica (Tehnicile si testele
+                                    cvasi–proiective si
                                     proiective) -
                                     Asociatia Phoenix, 2020
                                 </li>
                                 <li>
-                                    Metode si tehnici interactive de autocunoastere si dezvoltare personala utilizate in lucrul cu
+                                    Metode si tehnici interactive de autocunoastere si dezvoltare personala utilizate in
+                                    lucrul cu
                                     copii si adolescenti
                                     –
                                     Asociatia Catharsis, 2019
@@ -282,7 +302,8 @@ export default function Iuliana() {
                                     (ANC), 2015
                                 </li>
                                 <li>
-                                    Atestare pentru aplicarea si interpretarea instrumentului de evaluare Predictive Index
+                                    Atestare pentru aplicarea si interpretarea instrumentului de evaluare Predictive
+                                    Index
                                     -
                                     Mindustries Romania & Praendex Europe SA, Elvetia, 2008
                                 </li>
@@ -292,7 +313,8 @@ export default function Iuliana() {
                                     Hart Consulting, 2005
                                 </li>
                                 <li>
-                                    Certifcare pentru Centru de Evaluare si Dezvoltare (Assessment and Development Center
+                                    Certifcare pentru Centru de Evaluare si Dezvoltare (Assessment and Development
+                                    Center
                                     Certifcation)
                                     –
                                     Assessment and Development Consultants Ltd ADC, 2004
@@ -318,16 +340,15 @@ export default function Iuliana() {
                                             Consiliere psihologica
                                             –
                                             Terapie scurta colaborativa orientata pe resurse si solutii
-                                            (din 2020)
                                         </li>
                                         <li>
-                                            Psihologie educationala, consiliere scolara si vocationala (din 2015)
+                                            Psihologie educationala, consiliere scolara si vocationala
                                         </li>
                                         <li>
-                                            Psihologia muncii si organizationala (din 2014)
+                                            Psihologia muncii si organizationala
                                         </li>
                                         <li>
-                                            Psihologia aplicata in servicii (din 2014)
+                                            Psihologia aplicata in servicii
                                         </li>
                                     </ul>
                                 </li>
@@ -337,7 +358,7 @@ export default function Iuliana() {
                 </Accordion>
 
             </div>
-            <Footer />
+            <Footer/>
         </>
     );
 }
